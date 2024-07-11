@@ -1,0 +1,79 @@
+{
+    "explore-nepal":{
+        "rows":{
+            "rowone":[
+                {
+                      "backgroundImage":"/Image/tour/city-tour/city-tour-card.jpg",
+                      "width":"30%",
+                      "howManyPlaces":"7",
+                      "category":"City Tour",
+                      "link":"/tours/city-tour"
+                },
+                {
+                    "backgroundImage":"/Image/tour/honey-moon-tour/honey-moon-tour-card.jpg",
+                    "width":"40%",
+                    "howManyPlaces":"1",
+                    "category":"Honeymoon Tour",
+                    "link":"/tours/honey/honey-moon-tour"
+
+                },
+                {
+                    "backgroundImage":"/Image/tour/pilgrimage-tour/pilgrimage-tour-card.jpg",
+                    "width":"30%",
+                    "howManyPlaces":"2",
+                    "category":"Pilgrimage Tour",
+                    "link":"/tours/pilgrimage-tour"
+                }
+            ],
+            "rowtwo":[
+                {
+                  "backgroundImage":"/Image/tour/photo-graphy-tour/photo-graphy-tour-card.jpg",
+                  "width":"40%",
+                  "howManyPlaces":"1",
+                  "category":"Photography Tour",
+                  "link":"/tours/photo/photography-tour"
+                },
+                {
+                "backgroundImage":"/Test.jpg",
+                "width":"25%",
+                "howManyPlaces":"9",
+                "category":"Everest Region",
+                "link":"/trekking/everest-region"
+                },
+                {
+        "backgroundImage":"/Test.jpg",
+        "width":"35%",
+        "howManyPlaces":"12",
+        "category":"Annapurna Region",
+        "link":"/trekking/annapurna-region"
+                }
+            ],
+            "rowthree":[
+                {
+                    "backgroundImage":"/Test.jpg",
+                    "width":"25%",
+                    "howManyPlaces":"4",
+                    "category":"Langtang Region",
+                    "link":"/trekking/langtang-region"
+                },
+                {
+                    "backgroundImage":"/Test.jpg",
+                    "width":"35%",
+                    "howManyPlaces":"1",
+                    "category":"Manaslu Region",
+                    "link":"/trekking/manaslu-region"
+                },
+                {
+                    "backgroundImage":"/Image/other-activities/jungle-safari/jungle-safari1.jpg",
+                    "width":"40%",
+                    "howManyPlaces":"3",
+                    "category":"Jungle Safari",
+                    "link":"/other-activities/jungle-safari"
+                }
+            ]
+        }
+
+
+        
+    }
+}

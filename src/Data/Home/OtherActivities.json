@@ -1,0 +1,54 @@
+{
+    "heading":"Other Activities",
+    "paragraph":"Nepal's tours blend cultural immersion and natural beauty. Experience Mountain Flights, Rafting, Chitwan safaris, and Paragliding for unforgettable adventures and spiritual reflections.",
+    "otherActivities":[
+        {
+            "link":"/other-activities/jungle-safari",
+            "image":"/Image/other-activities/jungle-safari/jungle-safari1.jpg",
+            "name":"Jungle Safari",
+            "days":"1-3"
+        },
+        {
+            "link":"/other-activities/rafting",
+            "image":"/Image/other-activities/rafting/rafting1.jpg",
+            "name":"Rafting",
+            "days":"1-11"
+        },
+        {
+            "link":"/other-activities/heli-tour",
+            "image":"/Image/other-activities/heli-tour/heli-tour1.png",
+            "name":"Heli Tour",
+            "days":"1"
+        },
+        {
+            "link":"/other-activities/mountain-flight",
+            "image":"/Image/other-activities/mountain-flight/mountain-flight1.jpg",
+            "name":"Mountain Flight",
+            "days":"1"
+        },
+        {
+            "link":"/other-activities/bungee/bungee-jumping",
+            "image":"/Image/other-activities/bungee-jump/bungee-jump1.jpg",
+            "name":"Bungee Jumping",
+            "days":"1"
+        },
+        {
+            "link":"/other-activities/para/paragliding",
+            "image":"/Image/other-activities/paragliding/paragliding1.jpg",
+            "name":"Paragliding",
+            "days":"1"
+        },
+        {
+            "link":"/other-activities/zip/zip-flyer",
+            "image":"/Image/other-activities/zip-flyer/zip-flyer1.jpg",
+            "name":"Zip Flyer",
+            "days":"1"
+        },
+        {
+            "link":"/other-activities/bird/bird-watching",
+            "image":"/Image/other-activities/bird-watching/bird-watching1.jpg",
+            "name":"Bird Watching",
+            "days":"1"
+        }
+    ]
+}

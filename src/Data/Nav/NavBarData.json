@@ -1,0 +1,20 @@
+{
+ 
+    "desktopNav":{
+        "Navlist":[
+            {
+                "name":"Home",
+                "link":"/"
+            },
+            {
+                "name":"Trekking",
+                "link":"/trekking"
+            },
+            {
+                "name":"Activities",
+                "link":"/other-activities"
+            }
+        ]
+    }
+
+}

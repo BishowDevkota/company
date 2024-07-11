@@ -1,0 +1,28 @@
+.cards{
+display: flex;
+gap: 30px;
+flex-direction: column;
+
+.card{
+    display: flex;
+    gap: 20px;
+    background-color:#F8F9FA;
+    padding: 10px;
+    width: 90%;
+    align-items: center;
+    padding: 20px;
+    img{
+        width: 70px;
+    }
+    .sub-card{
+        .card-heading{
+            font-size: 20px;
+            font-weight: bold;
+        }
+        .content{
+            font-size: 25px;
+
+        }
+    }
+}
+}

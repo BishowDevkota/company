@@ -1,0 +1,54 @@
+.wrapper{
+    position: relative;
+    .date{
+        position: absolute;
+        height: 80px ;
+        width: 80px;
+        background-color: #2ECC71;
+        top: 40px ;
+        left: -40px;
+        border-radius: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 5px;
+        .month{
+
+            font-size: 25px;
+            font-weight: 900;
+            color: black;
+        }
+        .day{
+            font-size: 20px;
+            color: #333333;
+        }
+    }
+.blog-body {
+    .blog-name {
+        h2 {
+            text-align: center;
+            color: #333333;
+        }
+    }
+
+    .footer {
+        .discription {
+            .blog-footer-discription {
+                padding: 0 20px 0 20px ;
+                color: #333333;
+                overflow: hidden;
+                display: -webkit-box;
+                -webkit-line-clamp: 5; /* Change 5 to the number of lines you want */
+                -webkit-box-orient: vertical;
+            }
+        }
+    }
+
+    .writer {
+        text-align: center;
+        font-size: 18px;
+        color: white;
+    }
+}
+}

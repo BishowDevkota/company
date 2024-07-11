@@ -1,0 +1,36 @@
+.error-container {
+    position: relative;
+    top: 98px;
+    text-align: center;
+padding-bottom: 98px;
+}
+
+.error-container .a404 {
+    font-size: 5rem;
+    margin: 0;
+    color: #343a40;
+}
+
+.error-container p {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+    color: #6c757d;
+}
+
+.home-button {
+    display: inline-block;
+    padding: 0.75rem 1.25rem;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #007bff;
+    border-radius: 0.25rem;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.home-button:hover {
+    background-color: #0056b3;
+}
+
+
+

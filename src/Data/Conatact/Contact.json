@@ -1,0 +1,32 @@
+{
+     "heading":"Contact Us",
+"subHero":{
+    "heading":"Contact Us",
+    "image":"https://swancare.com.au/awcontent/Web/images/Contact%20Us/Contact-Us-Hero-Banner-2.jpg"
+},
+"sidebar":{
+    "lists":[
+        {
+            "image":"/Image/Contact/Location.png",
+            "heading":"Location",
+            "content":"Lake Side-6, Pokhara Nepal"
+
+        },
+        {
+            "image":"/Image/Contact/Email.webp",
+            "heading":"Email",
+            "content":"bigskytreks@gmail"
+        },
+        {
+            "image":"/Image/Contact/Phone.png",
+            "heading":"Phone",
+            "content":"+977 9846139572"
+        },
+        {
+          "image":"/Image/Contact/Whatsapp.png",
+          "heading":"Whatsapp",
+          "content":"+977 9846139572"
+        }
+    ]
+}
+}

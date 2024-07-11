@@ -1,0 +1,39 @@
+{
+    "subhero":{
+        "title":"Tours",
+        "image":"/logo192.png"
+    },
+    "overview":{
+        "heading":"Overview",
+        "paragraph":"<b>Hello</b>"
+    },
+    "Tours":{
+    "heading":"Tours In Nepal",
+    "lists":[
+        {
+            "name":"City Tour",
+            "link":"/about",
+            "image":"/logo192.png",
+            "days":"01"
+        },
+        {
+            "name":"Famous Tour",
+            "link":"/about",
+            "image":"/logo192.png",
+            "days":"01"
+        },
+        {
+            "name":"Pilgrimage Tour",
+            "link":"/about",
+            "image":"/logo192.png",
+            "days":"01"
+        },
+        {
+            "name":"Photography Tour",
+            "link":"/about",
+            "image":"/logo192.png",
+            "days":"01"
+        }
+    ]
+}
+}

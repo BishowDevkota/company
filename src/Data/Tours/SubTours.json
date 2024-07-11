@@ -1,0 +1,215 @@
+{
+"city-tour": {
+        "url": "city-tour",
+        "subhero": {
+            "title": "City Tour",
+            "image": "/Image/tour/city-tour/city-tour-hero.jpg"
+        },
+        "overview": {
+            "heading": "Overview For City Tour",
+            "paragraph": "City tours offer an extensive and immersive experience into the heart of a destination, blending <b>historical exploration</b>, <b>cultural immersion</b>, and <b>modern vibrancy</b>. These tours take visitors through <b>ancient landmarks</b>, <b>grand palaces</b>, and <b>architectural marvels</b>, bringing history to life with captivating stories and insights from knowledgeable guides. They delve into local culture through visits to <b>bustling markets</b>, <b>traditional neighborhoods</b>, and <b>cultural centers</b>, providing firsthand experiences of the city's unique traditions and daily life. The tours often highlight <b>natural beauty</b> within urban settings, such as <b>botanical gardens</b>, <b>scenic parks</b>, and <b>riverbanks</b>, offering a peaceful respite from the city's hustle. Culinary adventures are integral, with <b>food tastings</b> and <b>dining experiences</b> showcasing regional specialties and local flavors. <b>Art and museums</b> play a significant role, presenting world-class collections and exhibitions that reflect the city's artistic and historical heritage. Modern city tours also include vibrant <b>shopping districts</b> and <b>entertainment hubs</b>, where visitors can enjoy <b>live performances</b>, shop for unique souvenirs, and soak in the lively atmosphere. Personalized experiences cater to individual interests, ensuring every visitor can explore the city in a way that resonates with them. Through connections with locals and personalized stories, city tours provide a deep, enriching, and unforgettable exploration, leaving visitors with a lasting impression and a profound appreciation of the city's multifaceted identity."
+        },
+        "subtours": {
+            "heading": "City Tours In Nepal",
+            "activities": [
+                {
+                    "name": "Pokhara City Tour",
+                    "image": "/Image/tour/city-tour/pokhara-city-tour/pokhara-city-tour-card.jpg",
+                    "days": "01",
+                    "link": "/tours/city-tour/pokhara-city-tour"
+                },
+                {
+                    "name": "Kathmandu City Tour",
+                    "image": "/Image/tour/city-tour/kathmandu-city-tour/kathmandu-city-tour-card.jpg",
+                    "days": "01",
+                    "link": "/tours/city-tour/kathmandu-city-tour"
+                },
+                {
+                    "name": "Kathmandu Nagarkot Tour",
+                    "image": "/Image/tour/city-tour/kathmandu-nagarkot-tour/kathmandu-nagarkot-tour-card.jpg",
+                    "days": "01",
+                    "link": "/tours/city-tour/kathmandu-nagarkot-tour"
+                },
+                {
+                    "name": "Kathmandu Pokhara Tour",
+                    "image": "/Image/tour/city-tour/kathmandu-pokhara-tour/kathmandu-pokhara-tour-card.webp",
+                    "days": "01",
+                    "link": "/tours/city-tour/kathmandu-pokhara-tour"
+                },
+                {
+                    "name": "Kathmandu Pokhara Chitwan Tour",
+                    "image": "/Image/tour/city-tour/kathmandu-pokhara-chitwan-tour/kathmandu-pokhara-chitwan-tour-card.jpg",
+                    "days": "01",
+                    "link": "/tours/city-tour/kathmandu-pokhara-chitwan-tour"
+                },
+                {
+                    "name": "Kathmandu Nagarkot Pokhara Tour",
+                    "image": "/Image/tour/city-tour/kathmandu-nagarkot-pokhara-tour/kathmandu-nagarkot-pokhara-tour-card.jpg",
+                    "days": "01",
+                    "link": "/tours/city-tour/kathmandu-nagarkot-pokhara-tour"
+                },
+                {
+                    "name": "KTM PKR Chitwan Lumbini Tour",
+                    "image": "/Image/tour/city-tour/kathmandu-pokhara-chitwan-lumbini-tour/kathmandu-pokhara-chitwan-lumbini-tour-card.jpg",
+                    "days": "01",
+                    "link": "/tours/city-tour/kathmandu-pokhara-chitwan-lumbini-tour"
+                }
+            ]
+        },
+    "kathmandu-city-tour": {
+        "url": "kathmandu-city-tour",
+        "subhero": {
+            "title": "Kathmandu City Tour",
+            "image": "/Image/tour/city-tour/kathmandu-city-tour/kathmandu-city-tour-hero.jpg"
+        },
+        "overview": {
+            "heading": "Overview For Kathmandu City Tour",
+            "paragraph": "Kathmandu, the capital city of Nepal, offers a rich tapestry of <b>historical exploration</b> and <b>cultural immersion</b>. A tour of Kathmandu takes you through ancient <b>UNESCO World Heritage Sites</b> like the iconic <b>Swayambhunath Stupa</b> (also known as the Monkey Temple), the majestic <b>Pashupatinath Temple</b>, and the grand <b>Durbar Square</b>, each site brimming with stories and architectural wonders. Stroll through the bustling <b>Thamel</b> area, known for its vibrant markets and traditional handicrafts. Experience the local lifestyle in <b>Asan Bazaar</b>, where the sights, sounds, and smells create an unforgettable sensory experience. The tour also offers moments of serenity in the <b>Garden of Dreams</b>, a peaceful enclave amid the city's hustle. Culinary adventures are a highlight, with opportunities to taste <b>authentic Nepali cuisine</b>, from momos to dal bhat. Visits to <b>art galleries</b> and <b>museums</b> provide insights into Nepal’s rich artistic heritage and history. Personalized tours can include interactions with local artisans and craftsmen, adding a unique touch to the journey. Kathmandu City Tour is not just a sightseeing trip but a deep dive into the heart of Nepalese culture and history, leaving visitors with lasting memories and a profound appreciation of the city's multifaceted identity."
+        }
+    },
+    "pokhara-city-tour": {
+        "url": "pokhara-city-tour",
+        "subhero": {
+            "title": "Pokhara City Tour",
+            "image": "/Image/tour/city-tour/pokhara-city-tour/pokhara-city-tour-hero.jpg"
+        },
+        "overview": {
+            "heading": "Overview For Pokhara City Tour",
+            "paragraph": "Pokhara, known as the 'Gateway to the Himalayas', offers an enchanting blend of <b>natural beauty</b> and <b>adventure</b>. The city is home to the serene <b>Phewa Lake</b>, where visitors can enjoy boat rides with breathtaking views of the <b>Annapurna mountain range</b> reflected in the water. The <b>World Peace Pagoda</b>, perched atop a hill, offers panoramic views of the city and the mountains beyond. Adventure enthusiasts can explore the <b>Mahendra Cave</b> and the stunning <b>Devi's Fall</b>. The city’s vibrant lakeside area is perfect for leisurely walks, shopping for local crafts, and enjoying the local cuisine. A visit to the <b>International Mountain Museum</b> provides fascinating insights into the history of mountaineering and the Himalayas. The <b>Seti River Gorge</b> and the picturesque <b>Begnas Lake</b> are other natural attractions that showcase Pokhara’s stunning landscape. For those seeking thrills, paragliding from Sarangkot offers an unparalleled view of the mountains and the valley. Pokhara City Tour is a journey through a city that seamlessly blends tranquility and adventure, offering visitors an unforgettable experience surrounded by some of the world's most stunning natural scenery."
+        }
+    },
+    "kathmandu-nagarkot-tour": {
+        "url": "kathmandu-nagarkot-tour",
+        "subhero": {
+            "title": "Kathmandu Nagarkot Tour",
+            "image": "/Image/tour/city-tour/kathmandu-nagarkot-tour/kathmandu-nagarkot-tour-hero.webp"
+        },
+        "overview": {
+            "heading": "Overview For Kathmandu Nagarkot Tour",
+            "paragraph": "The Kathmandu Nagarkot Tour offers a unique blend of city exploration and natural beauty. Starting in Kathmandu, visitors can delve into the city’s rich history with visits to <b>UNESCO World Heritage Sites</b> like the <b>Bhaktapur Durbar Square</b>, known for its exquisite architecture and intricate woodwork. The tour continues to Nagarkot, a hill station renowned for its spectacular <b>sunrise views over the Himalayas</b>, including Mount Everest on a clear day. The journey from Kathmandu to Nagarkot is a scenic drive through traditional villages and terraced fields. In Nagarkot, nature enthusiasts can enjoy short hikes and explore the lush landscape. The panoramic view from the <b>Nagarkot View Tower</b> is a highlight, offering a breathtaking vista of the Himalayan range. The serene environment of Nagarkot is a perfect contrast to the bustling streets of Kathmandu, making this tour a well-rounded experience that showcases both cultural richness and natural splendor."
+        }
+    },
+    "kathmandu-pokhara-tour": {
+        "url": "kathmandu-pokhara-tour",
+        "subhero": {
+            "title": "Kathmandu Pokhara Tour",
+            "image": "/Image/tour/city-tour/kathmandu-pokhara-tour/kathmandu-pokhara-tour-hero.jpg"
+        },
+        "overview": {
+            "heading": "Overview For Kathmandu Pokhara Tour",
+            "paragraph": "The Kathmandu Pokhara Tour combines the cultural depth of Kathmandu with the natural beauty of Pokhara. In Kathmandu, visitors can explore <b>historical landmarks</b> such as the <b>Boudhanath Stupa</b>, one of the largest stupas in the world, and the sacred <b>Pashupatinath Temple</b>. The vibrant markets of <b>Thamel</b> and the serene <b>Garden of Dreams</b> offer contrasting experiences of the city. The tour then moves to Pokhara, where the tranquil <b>Phewa Lake</b> and the towering <b>World Peace Pagoda</b> provide stunning views of the <b>Annapurna mountain range</b>. Adventure activities such as paragliding and boating add excitement to the visit. The <b>Devi's Fall</b> and the <b>International Mountain Museum</b> are must-see attractions that highlight Pokhara’s natural and cultural heritage. This tour is perfect for those looking to experience the best of Nepal’s cultural and natural wonders."
+        }
+    },
+    "kathmandu-pokhara-chitwan-tour": {
+        "url": "kathmandu-pokhara-chitwan-tour",
+        "subhero": {
+            "title": "Kathmandu Pokhara Chitwan Tour",
+            "image": "/Image/tour/city-tour/kathmandu-pokhara-chitwan-tour/kathmandu-pokhara-chitwan-tour-hero.jpg"
+        },
+        "overview": {
+            "heading": "Overview For Kathmandu Pokhara Chitwan Tour",
+            "paragraph": "The Kathmandu Pokhara Chitwan Tour is an all-encompassing journey through Nepal’s cultural, natural, and wildlife treasures. Starting in Kathmandu, visitors can explore significant <b>UNESCO World Heritage Sites</b> like the <b>Patan Durbar Square</b> and the ancient <b>Bhaktapur</b>. The tour then moves to Pokhara, where the serene <b>Phewa Lake</b> and the majestic <b>World Peace Pagoda</b> offer breathtaking views of the <b>Annapurna range</b>. Adventure enthusiasts can indulge in activities like paragliding and boating. The journey concludes in Chitwan, home to the <b>Chitwan National Park</b>, a UNESCO World Heritage Site known for its diverse wildlife, including the <b>Bengal tiger</b> and the <b>one-horned rhinoceros</b>. Jungle safaris, bird watching, and canoe rides in Chitwan provide an up-close experience with nature. This tour offers a comprehensive experience, showcasing Nepal’s rich cultural heritage, stunning landscapes, and diverse wildlife."
+        }
+    },
+    "kathmandu-nagarkot-pokhara-tour": {
+        "url": "kathmandu-nagarkot-pokhara-tour",
+        "subhero": {
+            "title": "Kathmandu Nagarkot Pokhara Tour",
+            "image": "/Image/tour/city-tour/kathmandu-nagarkot-pokhara-tour/kathmandu-nagarkot-pokhara-tour-hero.jpg"
+        },
+        "overview": {
+            "heading": "Overview For Kathmandu Nagarkot Pokhara Tour",
+            "paragraph": "The Kathmandu Nagarkot Pokhara Tour offers a balanced mix of cultural immersion and natural beauty. In Kathmandu, visitors can explore <b>UNESCO World Heritage Sites</b> like the ancient <b>Swayambhunath Stupa</b> and the grand <b>Durbar Square</b>. A trip to Nagarkot provides stunning <b>sunrise views over the Himalayas</b>, with opportunities for short hikes and nature walks. The tour then continues to Pokhara, where the serene <b>Phewa Lake</b> and the picturesque <b>World Peace Pagoda</b> offer breathtaking views of the <b>Annapurna range</b>. The vibrant lakeside area in Pokhara is perfect for leisurely strolls, shopping, and enjoying local cuisine. Adventure activities such as paragliding and boating add excitement to the visit. This tour is ideal for those looking to experience Nepal’s cultural heritage and natural beauty in a single trip."
+        }
+    },
+    "kathmandu-pokhara-chitwan-lumbini-tour": {
+        "url": "kathmandu-pokhara-chitwan-lumbini-tour",
+        "subhero": {
+            "title": "KTM PKR Chitwan Lumbini Tour",
+            "image": "/Image/tour/city-tour/kathmandu-pokhara-chitwan-lumbini-tour/kathmandu-pokhara-chitwan-lumbini-tour-hero.jpg"
+        },
+        "overview": {
+            "heading": "Overview For Kathmandu Pokhara Chitwan Lumbini Tour",
+            "paragraph": "The Kathmandu Pokhara Chitwan Lumbini Tour is an extensive journey through Nepal’s most iconic destinations. In Kathmandu, explore <b>UNESCO World Heritage Sites</b> such as the historic <b>Durbar Square</b> and the sacred <b>Pashupatinath Temple</b>. The tour continues to Pokhara, where the tranquil <b>Phewa Lake</b> and the majestic <b>World Peace Pagoda</b> offer stunning views of the <b>Annapurna range</b>. Adventure seekers can enjoy paragliding and boating in Pokhara. In Chitwan, the <b>Chitwan National Park</b> offers jungle safaris and bird watching, with a chance to see the <b>Bengal tiger</b> and the <b>one-horned rhinoceros</b>. The journey concludes in Lumbini, the birthplace of <b>Lord Buddha</b>, where visitors can explore the sacred <b>Maya Devi Temple</b> and the peaceful <b>Lumbini Garden</b>. This tour provides a comprehensive experience of Nepal’s cultural, natural, and spiritual heritage."
+        }
+    }
+},
+"honey": {
+    "honey-moon-tour": {
+        "url": "honey-moon-tour",
+        "subhero": {
+            "title": "Honeymoon Tour",
+            "image": "/Image/tour/honey-moon-tour/honey-moon-tour-hero.jpg"
+        },
+        "overview": {
+            "heading": "Overview For Honeymoon Tour",
+            "paragraph": "Honeymoon tours in Nepal offer a perfect blend of romance, adventure, and serenity, providing couples with unforgettable experiences amid breathtaking landscapes. These tours are designed to create cherished memories, featuring stays at luxurious resorts with stunning views of the Himalayas, serene lakes, and lush forests. Couples can enjoy romantic boat rides on the tranquil <b>Phewa Lake</b> in Pokhara, with the majestic Annapurna range as a backdrop. A visit to the peaceful <b>World Peace Pagoda</b> offers a quiet moment of reflection and spectacular panoramic views. Adventure-loving couples can experience the thrill of paragliding over the scenic valleys, or take a sunrise hike to <b>Sarangkot</b> for an awe-inspiring view of the mountains. The serene environment of <b>Nagarkot</b> is perfect for enjoying stunning sunrise and sunset views over the Himalayas, making it an ideal romantic getaway. In Kathmandu, explore the cultural richness with visits to ancient temples, vibrant markets, and enjoy a traditional Nepali dinner. A honeymoon in Nepal is not just a holiday, but a journey through some of the most romantic and picturesque landscapes in the world, offering moments of adventure, tranquility, and cultural immersion."
+        }
+    }
+},
+"pilgrimage-tour": {
+    "url": "pilgrimage-tour",
+    "subhero": {
+        "title": "Pilgrimage Tour",
+        "image": "/Image/tour/pilgrimage-tour/pilgrimage-tour-hero.jpg"
+    },
+    "overview": {
+        "heading": "Overview For Pilgrimage Tour",
+        "paragraph": "Pilgrimage tours in Nepal offer a profound spiritual experience, allowing travelers to explore the country's rich <b>religious heritage</b>. These tours provide a deep connection to the sacred, visiting <b>ancient temples</b>, <b>monasteries</b>, and <b>holy sites</b> that hold significant religious importance. Each destination offers a unique blend of <b>spirituality</b>, <b>history</b>, and <b>cultural immersion</b>, making pilgrimage tours a journey of both faith and discovery. Pilgrimage sites in Nepal are not just places of worship, but also of great <b>historical</b> and <b>architectural significance</b>. The serene landscapes, coupled with the tranquility of these sacred sites, create a perfect environment for <b>meditation</b> and <b>reflection</b>. From the high Himalayan regions to the lush Terai plains, each pilgrimage site in Nepal offers a unique story and a glimpse into the country's diverse cultural fabric. Travelers often find themselves not only spiritually enriched but also intellectually enlightened by the deep history and traditions they encounter. Additionally, interactions with local devotees and monks provide personal stories and insights that deepen the pilgrimage experience, making it both a personal and collective journey."
+    },
+    "subtours": {
+        "heading": "Famous Pilgrimage Tours",
+        "activities": [
+            {
+                "name": "Hindu Pilgrimage Tour",
+                "image": "/Image/tour/pilgrimage-tour/hindu-pilgrimage-tour/hindu-pilgrimage-tour-card.jpg",
+                "days": "07",
+                "link": "/tours/pilgrimage-tour/hindu-pilgrimage-tour"
+            },
+            {
+                "name": "Buddhist Pilgrimage Tour",
+                "image": "/Image/tour/pilgrimage-tour/buddhist-pilgrimage-tour/buddhist-pilgrimage-tour-card.jpg",
+                "days": "07",
+                "link": "/tours/pilgrimage-tour/buddhist-pilgrimage-tour"
+            }
+        ]
+    },
+    "hindu-pilgrimage-tour": {
+        "url": "hindu-pilgrimage-tour",
+        "subhero": {
+            "title": "Hindu Pilgrimage Tour",
+            "image": "/Image/tour/pilgrimage-tour/hindu-pilgrimage-tour/hindu-pilgrimage-tour-hero.jpg"
+        },
+        "overview": {
+            "heading": "Overview For Hindu Pilgrimage Tour",
+            "paragraph": "The Hindu pilgrimage tour in Nepal takes you through some of the most revered Hindu temples and sacred sites, offering a deep spiritual experience. The journey includes visits to the famous <b>Pashupatinath Temple</b>, one of the most important Shiva temples in the world, and the sacred <b>Muktinath Temple</b>, known for its holy waters and fire that burn in the water. The tour also covers other significant temples like <b>Manakamana</b>, renowned for fulfilling devotees' wishes, and the <b>Janaki Temple</b>, dedicated to Goddess Sita. This pilgrimage not only strengthens faith but also provides insights into the rich cultural and religious heritage of Nepal. The Pashupatinath Temple, a UNESCO World Heritage site, stands as a testament to the country's devotion to Lord Shiva, attracting pilgrims from all over the world. The sacred <b>Bagmati River</b>, which flows by the temple, adds to the site's sanctity, where devotees perform rituals and pay their respects. At Muktinath, the mystical combination of the <b>108 water spouts</b> and the <b>eternal flame</b> symbolizes the spiritual cleansing and enlightenment sought by pilgrims. Manakamana Temple, perched atop a hill, is accessed by a scenic cable car ride, providing breathtaking views of the Himalayas and deep valleys, enhancing the spiritual journey with nature's grandeur. Janakpur, home to the Janaki Temple, celebrates the divine love story of Lord Rama and Goddess Sita, offering a glimpse into ancient Hindu epics and traditions. Throughout the tour, the vibrant festivals, daily rituals, and warm hospitality of the local people enrich the spiritual experience, making it a memorable journey of faith and cultural exploration."
+        }
+    },
+    "buddhist-pilgrimage-tour": {
+        "url": "buddhist-pilgrimage-tour",
+        "subhero": {
+            "title": "Buddhist Pilgrimage Tour",
+            "image": "/Image/tour/pilgrimage-tour/buddhist-pilgrimage-tour/buddhist-pilgrimage-tour-hero.jpg"
+        },
+        "overview": {
+            "heading": "Overview For Buddhist Pilgrimage Tour",
+            "paragraph": "The Buddhist pilgrimage tour in Nepal offers a serene journey through the most significant Buddhist sites, enhancing spiritual understanding and inner peace. The tour includes visits to <b>Lumbini</b>, the birthplace of Lord Buddha, where you can explore the sacred gardens and monasteries. It also covers the ancient <b>Swayambhunath Stupa</b>, known as the Monkey Temple, and the <b>Boudhanath Stupa</b>, one of the largest stupas in the world. The tour extends to <b>Namo Buddha</b>, a revered site associated with the Buddha's sacrifice. This pilgrimage fosters a deeper connection to Buddhist teachings and provides a tranquil escape into Nepal's spiritual essence. Lumbini, a UNESCO World Heritage site, is a beacon of peace and spirituality, with its beautiful <b>Ashoka Pillar</b>, <b>Maya Devi Temple</b>, and the serene <b>Lumbini Garden</b>. The site is adorned with numerous monasteries built by different countries, reflecting a global homage to the Buddha. Swayambhunath Stupa, perched atop a hill, offers panoramic views of the Kathmandu Valley and is a vital center for Tibetan Buddhism. The stupa's <b>eyes of Buddha</b> symbolize wisdom and compassion, guiding devotees on their spiritual path. Boudhanath Stupa, with its massive mandala and white dome, stands as a symbol of enlightenment and is a focal point for Tibetan Buddhist worship and practice. The vibrant atmosphere around Boudhanath, with its prayer wheels, incense, and chanting monks, immerses visitors in deep spirituality. Namo Buddha, one of the most important Buddhist pilgrimage sites in Nepal, is steeped in legend and history. It is believed to be the site where the Buddha, in a previous life, offered his body to a starving tigress and her cubs, exemplifying ultimate compassion and selflessness. The peaceful monastery at Namo Buddha provides a perfect setting for meditation and reflection, surrounded by the tranquil beauty of the Himalayan foothills. This tour not only deepens one's understanding of Buddhist philosophy but also provides a serene and introspective journey through Nepal's most sacred Buddhist sites."
+        }
+    }
+},
+"photo": {
+    "photography-tour": {
+        "url": "photography-tour",
+        "subhero": {
+            "title": "Photography Tour",
+            "image": "/Image/tour/photo-graphy-tour/photo-graphy-tour-hero.jpg"
+        },
+        "overview": {
+            "heading": "Overview For Photography Tour",
+            "paragraph": "Photography tours in Nepal offer a unique opportunity to capture the country's breathtaking <b>landscapes</b>, <b>diverse cultures</b>, and <b>vibrant wildlife</b>. These tours are designed for photographers of all levels, providing access to some of the most <b>photogenic locations</b> in the world. Participants will explore <b>majestic Himalayan vistas</b>, <b>historic temples</b>, and <b>lively markets</b>, each offering a plethora of photographic opportunities. The tours also include visits to <b>traditional villages</b>, where photographers can document the <b>everyday life</b> and unique customs of local communities. Expert guides with deep knowledge of the region provide invaluable insights and tips to enhance the photographic experience. The journey through Nepal's <b>natural wonders</b>, such as <b>lush forests</b>, <b>serene lakes</b>, and <b>towering mountains</b>, allows for stunning nature photography. Wildlife enthusiasts will find ample opportunities to capture images of <b>rare species</b> in their natural habitats. Additionally, the rich <b>cultural festivals</b> and traditional ceremonies of Nepal offer vibrant scenes perfect for dynamic and colorful photographs. Each photography tour is carefully planned to ensure optimal lighting conditions and scenic backdrops, maximizing the potential for extraordinary shots. Participants will not only improve their photography skills but also gain a deeper appreciation of Nepal's incredible beauty and cultural heritage."
+        }
+    }
+}
+
+
+}

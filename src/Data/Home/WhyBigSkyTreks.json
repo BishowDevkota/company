@@ -1,0 +1,31 @@
+{
+    "heading":"Why Bigsky Treks",
+    "quotes":"I Trek ThereFore I am",
+    "WhyBST":[
+        {
+            "heading":"Expertise",
+            "paragraph":"Benefit from our two decades of experience in small-group adventure travel. We know the ins and outs of the destinations we explore, ensuring a smooth and enriching journey every step of the way."
+        },
+        {
+            "heading":"Personal Experiences",
+            "paragraph":"We understand that every traveler is unique. That's why we offer personalized itineraries tailored to your interests, ensuring that your adventure with us is truly one-of-a-kind."
+        },
+        {
+            "heading":"Safety First",
+            "paragraph":"Your safety is our top priority. We adhere to the highest safety standards and employ experienced guides who are trained to handle any situation, so you can explore with peace of mind."
+        },
+        {
+            "heading":"Sustainable Tourism",
+            "paragraph":"We are committed to responsible travel practices that benefit local communities and preserve the environment. By traveling with us, you can be confident that your adventures support sustainable tourism initiatives."
+        },
+        {
+            "heading":"Memorable Encounters",
+            "paragraph":"Traveling with Big Sky Treks means immersing yourself in the culture, history, and natural beauty of each destination. Our expert guides will ensure that you have authentic experiences and meaningful interactions along the way."
+        },
+        {
+            "heading":"Lasting Connections",
+            "paragraph":"Joining a small group of like-minded travelers means forging new friendships and creating lasting memories together. Whether you're traveling solo or with friends, you'll find a welcoming community with Big Sky Treks."
+        }
+    ]
+
+}

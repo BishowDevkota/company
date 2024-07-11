@@ -1,0 +1,73 @@
+{
+    "subhero":{
+        "heading":"Other Activities",
+        "image":"/test.jpg"
+    },
+    "overview":{
+        "heading":"Overview",
+        "paragraph":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci tenetur error molestiae debitis vitae eveniet maxime, consequuntur dolorem cumque officia nemo fugit obcaecati excepturi alias sit iure mollitia aliquid architecto quo! Facilis nostrum dolore cum nemo ratione explicabo exercitationem at iste natus ea, perspiciatis magnam sint. Minima deserunt sint officiis explicabo, natus qui omnis aspernatur nisi, possimus, cupiditate vero tempora vel saepe! Aspernatur temporibus quas incidunt molestias omnis quisquam aliquid a, perspiciatis voluptatem perferendis est, id dolorum tempora cum voluptatibus quia facere cupiditate possimus totam facilis? A non commodi pariatur sunt neque aliquam ipsa praesentium vero, id nesciunt asperiores adipisci."
+    },
+    "famousActivity":{
+        "heading":"Famous Activity To Do In Nepal Beyond Trekking",
+        "paragraph":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci tenetur error molestiae debitis vitae eveniet maxime",
+        "lists":[
+            {
+                "name":"Jungle Safari",
+                "link":"/other-activities/jungle-safari",
+                "days":"01",
+                "image":"/test.jpg"
+            },
+            {
+                "name":"Jungle Safari",
+                "link":"/other-activities/jungle-safari",
+                "days":"01",
+                "image":"/test.jpg"
+            },
+            {
+                "name":"Jungle Safari",
+                "link":"/other-activities/jungle-safari",
+                "days":"01",
+                "image":"/test.jpg"
+            },
+            {
+                "name":"Jungle Safari",
+                "link":"/other-activities/jungle-safari",
+                "days":"01",
+                "image":"/test.jpg"
+            },
+            {
+                "name":"Jungle Safari",
+                "link":"/other-activities/jungle-safari",
+                "days":"01",
+                "image":"/test.jpg"
+            },
+            {
+                "name":"Jungle Safari",
+                "link":"/other-activities/jungle-safari",
+                "days":"01",
+                "image":"/test.jpg"
+            },
+            {
+                "name":"Jungle Safari",
+                "link":"/other-activities/jungle-safari",
+                "days":"01",
+                "image":"/test.jpg"
+            },
+            {
+                "name":"Jungle Safari",
+                "link":"/other-activities/jungle-safari",
+                "days":"01",
+                "image":"/test.jpg"
+            },
+            {
+                "name":"Jungle Safari",
+                "link":"/other-activities/jungle-safari",
+                "days":"01",
+                "image":"/test.jpg"
+            }
+        ]
+    },
+    "contact":{
+        "heading":"Contact Us"
+    }
+}

@@ -1,0 +1,60 @@
+{
+  "heading": "Best Selling Trips",
+  "paragraph": "Trekking in Nepal offers breathtaking landscapes, diverse cultures, and adventure. With routes for all skill levels, from the high Himalayas to lush foothills, it's a perfect destination for unique trekking experiences.",
+  "trips": [
+    { 
+        "name": "Everest Base Camp", 
+        "image": "/Image/Trekking/everest-region/everest-base-camp/everest-base-camp1.jpg", 
+        "days": "16",
+        "link":"/trekking/everest-base-camp"
+    },
+    { 
+        "name": "Annapurna Base Camp", 
+        "image": "/Image/Trekking/annapurna-region/annapurna-base-camp/annapurna-base-camp1.jpg", 
+        "days": "9-16",
+        "link":"/"
+    },
+    { 
+        "name": "Langtang Valley Trek", 
+        "image": "/Image/Trekking/langtang-region/langtang-valley-trek/langtang-valley-trek1.jpg", 
+        "days": "01",
+        "link":"/trekking/langtang-valley-trek"
+    },
+    { 
+        "name": "Manaslu Curcit Trek", 
+        "image": "/Image/Trekking/manaslu-region/manaslu-curcit-trek/manaslu-curcit-trek1.jpg", 
+        "days": "01",
+        "link":"/trekking/manaslu-curcit-trek"
+    },
+    { 
+        "name": "Mardi Himal Trek", 
+        "image": "/Image/Trekking/annapurna-region/mardi-himal-trek/mardi-himal-trek1.jpg", 
+        "days": "01",
+        "link":"/trekking/mardi-himal-trek"
+    },
+    { 
+        "name": "EBC Chola Pass Trek", 
+        "image": "/Image/Trekking/everest-region/EBC-chola-pass-trek/EBC-chola-pass1.jpg", 
+        "days": "01",
+        "link":"/trekking/everest-base-camp-chola-pass"
+    },
+    { 
+        "name": "Jomsom Muktinath Trek", 
+        "image": "/Image/Trekking/annapurna-region/jomsom-muktinath-trek/jomsom-muktinath-trek1.jpg", 
+        "days": "01",
+        "link":"/trekking/jomsom-muktinath-trek"
+    },
+    { 
+        "name": "Upper Mustang Trek", 
+        "image": "/Image/Trekking/annapurna-region/upper-mustang-trek/upper-mustang-trek1.jpg", 
+        "days": "01",
+        "link":"/trekking/upper-mustang-trek"
+    },
+    { 
+        "name": "Annapurna Circuit Trek", 
+        "image": "/Image/Trekking/annapurna-region/annapurna-circuit-trek/annapurna-circuit-trek1.jpg", 
+        "days":"01",
+        "link":"/trekking/annapurna-curcit-trek"
+        }
+  ]
+}

@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+.expolore-more{
+
+    .upper-div{
+        background-color: var(--accent-color);
+        overflow: hidden;
+        padding: 70px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+
+        .button{
+            height: 50px;
+            width: 150px;
+        }
+        .expolre-more-headings{
+
+         h1{
+            font-size: 50px;
+            position: relative;
+            bottom: 40px;
+            color: var(--dark-grey);
+         }
+         p{
+
+            color: var(--light-grey);
+            font-size: 30px;
+            font-family: cursive;
+         }
+
+        }
+
+
+    }
+
+
+
+}
+
+
+@media only screen and (max-width: 768px) {
+    .expolore-more{
+        .upper-div{
+            padding: 10px;
+            padding-bottom: 70px;
+                    .explore-card{
+            
+            
+                        position: relative;
+            /* background-color: red; */
+            width: 91%;
+            right: -4%;
+                    }
+
+        }
+    }
+}
+
+@media only screen and (max-width: 470px) {
+    .expolore-more{
+        .upper-div{
+            padding: 10px;
+            padding-bottom: 70px;
+                    .explore-card{
+            
+            
+                        position: relative;
+            /* background-color: red; */
+            width: 110%;
+            right: 15%;
+                    }
+
+        }
+    }
+}
+
+@media only screen and (max-width: 393px) {
+    .expolore-more{
+        .upper-div{
+            padding: 10px;
+            padding-bottom: 70px;
+                    .explore-card{
+            
+            
+                        position: relative;
+            /* background-color: green; */
+            width: 114%;
+            right: 19%;
+                    }
+
+        }
+    }
+}

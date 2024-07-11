@@ -1,0 +1,15 @@
+[
+    {
+      "name": "John Doe",
+      "image": "https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg",
+      "post": "CEO",
+      "discription": "        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil vel dignissimos repudiandae amet eius ea quae tenetur esse veritatis suscipit earum, quod error alias nesciunt vitae praesentium? Modi dolorem, ipsam laborum porro dolore perspiciatis provident delectus distinctio nulla. Aliquam at distinctio dolore quae possimus nostrum recusandae quos quia facere ea, exercitationem vel rem commodi unde, velit itaque doloremque. Iure, illo."
+    },
+    {
+      "name": "Jane Smith",
+      "image": "https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg",
+      "post": "CTO",
+      "discription": "        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil vel dignissimos repudiandae amet eius ea quae tenetur esse veritatis suscipit earum, quod error alias nesciunt vitae praesentium? Modi dolorem, ipsam laborum porro dolore perspiciatis provident delectus distinctio nulla. Aliquam at distinctio dolore quae possimus nostrum recusandae quos quia facere ea, exercitationem vel rem commodi unde, velit itaque doloremque. Iure, illo."
+    }
+
+  ]

@@ -1,0 +1,60 @@
+{
+    "heading":"Popular Tours In Nepal",
+    "paragraph":"Nepal's tours offer cultural immersion and natural beauty, from Kathmandu's bustling streets to Pokhara's tranquil lakes. Explore Bhaktapur, Chitwan safaris, and Lumbini, Buddha's birthplace, for unforgettable adventures and spiritual reflections.",
+    "popularTours":[
+        {
+            "link":"/tours/city-tour",
+            "image":"/Image/tour/city-tour/city-tour-card.jpg",
+            "name":"City Tour",
+            "days":"00"
+        },
+        {
+            "link":"/tours/photo/photography-tour",
+            "image":"/Image/tour/photo-graphy-tour/photo-graphy-tour-card.jpg",
+            "name":"Photography Tour ",
+            "days":"00"
+        },
+        {
+            "link":"/tours/pilgrimage-tour",
+            "image":"/Image/tour/pilgrimage-tour/pilgrimage-tour-card.jpg",
+            "name":"Pligrimage Tour",
+            "days":"00"
+        },
+        {
+            "link":"/tours/honey/honey-moon-tour",
+            "image":"/Image/tour/honey-moon-tour/honey-moon-tour-card.jpg",
+            "name":"Honey Moon Tour",
+            "days":"00"
+        },
+        {
+            "link":"/tours/city-tour/kathmandu-city-tour",
+            "image":"/Image/tour/city-tour/kathmandu-city-tour/kathmandu-city-tour-card.jpg",
+            "name":"Kathmandu City tour",
+            "days":"00"
+        },
+        {
+            "link":"/tours/city-tour/pokhara-city-tour",
+            "image":"/Image/tour/city-tour/pokhara-city-tour/pokhara-city-tour-card.jpg",
+            "name":"Pokhara City Tour",
+            "days":"00"
+        },
+        {
+            "link":"/tours/city-tour/kathmandu-pokhara-tour",
+            "image":"/Image/tour/city-tour/kathmandu-pokhara-tour/kathmandu-pokhara-tour-card.webp",
+            "name":"Kathmandu Pokhara City Tour",
+            "days":"00"
+        },
+        {
+            "link":"/tours/city-tour/kathmandu-pokhara-tour",
+            "image":"/Image/tour/city-tour/kathmandu-nagarkot-pokhara-tour/kathmandu-nagarkot-pokhara-tour-card.jpg",
+            "name":"Kathmandu Nagarkot Pokhara Tour",
+            "days":"00"
+        },
+        {
+            "link":"/tours/city-tour/kathmandu-nagarkot-tour",
+            "image":"/Image/tour/city-tour/kathmandu-nagarkot-tour/kathmandu-nagarkot-tour-card.jpg",
+            "name":"Kathmandu Nagarkot Tour",
+            "days":"00"
+        }
+    ]
+}

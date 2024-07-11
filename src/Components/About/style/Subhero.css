@@ -1,0 +1,34 @@
+
+.sub-hero {
+    position: relative;
+    height: 70vh;  /* Change this from 100vh to 50vh */
+    background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    top: 98px;
+
+}
+
+.hero-content {
+    z-index: 1;
+}
+
+.sub-hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+}
+
+@media only screen and (max-width: 768px) {
+    .sub-hero {
+        top: 86px;
+    }
+}

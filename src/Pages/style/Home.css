@@ -1,0 +1,21 @@
+.home{
+    position: relative;
+    left: 5%;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+ 
+    .home-about-big-sky-treks{
+        display: flex;
+        gap: 50px;
+        justify-content: center;
+        align-items: center;
+    }
+}
+@media only screen and (max-width: 768px) {
+.home-about-big-sky-treks{
+    flex-direction: column;
+    gap: 0px;
+}
+}

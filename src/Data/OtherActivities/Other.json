@@ -1,0 +1,1172 @@
+{
+"jungle-safari": {
+    "url": "jungle-safari",
+    "subhero": {
+      "title": "Jungle Safari",
+      "image": "/Test.jpg"
+    },
+    "overview": {
+      "heading": "Overview For Jungle Safari",
+      "paragraph": "Embark on an extraordinary adventure with the Chitwan Jungle Safari, immersing yourself in the pristine wilderness of <b>Chitwan National Park</b>, a <b>UNESCO World Heritage Site</b>. This safari promises a captivating journey through Nepal's <b>Terai region</b>, renowned for its rich biodiversity and lush landscapes. Traverse dense forests on thrilling <b>jeep safaris</b> in search of elusive <b>one-horned rhinos</b> and majestic <b>Bengal tigers</b>, guided by expert naturalists who unravel the secrets of the jungle. Delight in serene <b>bird watching</b> experiences amidst the park's over <b>500 avian species</b>, and gain insight into the ancient traditions of the <b>Tharu indigenous community</b> through immersive cultural tours. Glide along the tranquil <b>Rapti River</b> on <b>canoe rides</b>, observing sunbathing crocodiles and other aquatic marvels. Whether savoring sunset views or engaging in exhilarating wildlife encounters, the Chitwan Jungle Safari promises an unforgettable expedition into the heart of nature's splendor."
+    },
+    "subotheractivities": {
+      "heading": "Famous Jungle Safari in Nepal",
+      "activities": [
+        {
+          "name": "Chitwan Jungle Safari",
+          "image": "/Test.jpg",
+          "days": "01",
+          "link": "/other-activities/jungle-safari/chitwan-jungle-safari"
+        },
+        {
+          "name": "Bardiya Jungle Safari",
+          "image": "/Test.jpg",
+          "days": "01",
+          "link": "/other-activities/jungle-safari/bardiya-jungle-safari"
+        },
+        {
+          "name":"Koshi Tappu Wild Life Reserve",
+          "image": "/Test.jpg",
+          "days": "01",
+          "link": "/other-activities/jungle-safari/koshi-tappu-wildlife-reserve"
+        }
+      ]
+    },
+    "chitwan-jungle-safari": {
+      "subhero": {
+        "title": "Chitwan Jungle Safari",
+        "image": "/Image/other-activities/jungle-safari/chitwan-jungle-safari/chitwan-jungle-safari-hero-image.jpg"
+      },
+      "overview": {
+        "heading": "Overview For Chitwan Jungle Safari",
+        "paragraph": "Embark on an extraordinary adventure with the Chitwan Jungle Safari, immersing yourself in the pristine wilderness of <b>Chitwan National Park</b>, a <b>UNESCO World Heritage Site</b>. This safari promises a captivating journey through Nepal's <b>Terai region</b>, renowned for its rich biodiversity and lush landscapes. Traverse dense forests on thrilling <b>jeep safaris</b> in search of elusive <b>one-horned rhinos</b> and majestic <b>Bengal tigers</b>, guided by expert naturalists who unravel the secrets of the jungle. Delight in serene <b>bird watching</b> experiences amidst the park's over <b>500 avian species</b>, and gain insight into the ancient traditions of the <b>Tharu indigenous community</b> through immersive cultural tours. Glide along the tranquil <b>Rapti River</b> on <b>canoe rides</b>, observing sunbathing crocodiles and other aquatic marvels. Whether savoring sunset views or engaging in exhilarating wildlife encounters, the Chitwan Jungle Safari promises an unforgettable expedition into the heart of nature's splendor."
+      },
+      "trip-facts": {
+        "heading": "Trip Facts",
+        "facts": [
+          "<b>Location:</b> Chitwan National Park, Nepal",
+          "<b>Best Time to Visit:</b> October to March",
+          "<b>Duration:</b> 2 to 4 days",
+          "<b>Accommodation:</b> Jungle lodges, hotels, and tented camps",
+          "<b>Activities:</b> Jeep safari, canoe ride, bird watching, nature walks, Tharu cultural tours",
+          "<b>Wildlife to See:</b> One-horned rhino, Bengal tiger, Asian elephant, crocodile, various bird species",
+          "<b>Accessibility:</b> By road from Kathmandu or Pokhara, or by flight to Bharatpur Airport"
+        ]
+      },
+      "programs": [
+        {
+          "heading": "One Night Two Day",
+          "days": [
+            {
+              "heading": "Day 01",
+              "image": "/Image/other-activities/jungle-safari/chitwan-jungle-safari/chitwan-jungle-safari-one-night-two-day/tourist-bus.jpg",
+              "paragraph": "Your adventure begins with a scenic journey from <b>Kathmandu</b> or <b>Pokhara</b> to <b>Chitwan</b>. Upon arrival at the bus station or <b>Bharatpur Airport</b>, you'll be warmly greeted and transferred to your chosen resort or hotel. After settling in with a refreshing drink, enjoy a delicious lunch. Later in the afternoon, embark on a leisurely nature walk or visit the observation tower for panoramic views of the park. As evening sets in, witness the vibrant culture of the <b>Tharu people</b> through a captivating cultural dance performance or traditional stick dance. Dinner will be served with a cultural program, offering a delightful introduction to the local traditions and flavors."
+            },
+            {
+              "heading": "Day 02",
+              "image": "/Image/other-activities/jungle-safari/chitwan-jungle-safari/chitwan-jungle-safari-one-night-two-day/elephant-ride.jpg",
+              "paragraph": "Awaken to the melodies of the jungle and start your day with an exhilarating <b>elephant ride</b> through the lush trails of Chitwan. Feel the thrill of encountering wildlife up close as you traverse the serene landscapes. After your morning adventure, return to your accommodation for a hearty breakfast. Bid farewell to this natural haven as you transfer to the bus station or Bharatpur Airport, filled with unforgettable memories and experiences."
+            }
+          ]
+        },
+        {
+          "heading": "Two Night Three Day",
+          "days": [
+            {
+              "heading": "Day 01",
+              "image": "/Image/other-activities/jungle-safari/chitwan-jungle-safari/chitwan-jungle-safari-two-night-three-day/tharu-stick-dance.jpg",
+              "paragraph": "Your journey commences with a scenic flight or drive from <b>Kathmandu</b> or <b>Pokhara</b> to <b>Chitwan</b>. Upon arrival, transfer to your selected resort or hotel where a warm welcome awaits. After settling in with a refreshing drink, enjoy a delightful lunch. In the afternoon, embark on a guided nature walk to immerse yourself in the rich flora and fauna of <b>Chitwan</b>. Alternatively, visit the observation tower for panoramic views of the park's expansive landscapes. As the sun sets, experience the cultural vibrancy of the <b>Tharu community</b> through a captivating cultural dance or slide show. Dinner will be served with a cultural program, offering insights into local traditions and cuisine."
+            },
+            {
+              "heading": "Day 02",
+              "image": "/Image/other-activities/jungle-safari/chitwan-jungle-safari/chitwan-jungle-safari-two-night-three-day/canoeing.jpg",
+              "paragraph": "Start your day with an early morning adventure as you glide along the tranquil waters of the <b>Rapti River</b> on a scenic <b>canoe ride</b>. Observe the diverse aquatic life and bird species that call these waters home. Return to your lodge for a hearty breakfast before embarking on an <b>elephant ride</b> through the verdant jungle paths. Visit the <b>Elephant Breeding Centre</b> to learn about conservation efforts and interact with these gentle giants. After lunch, enjoy leisure time or opt for an <b>elephant back safari</b> to explore deeper into the wilderness. In the evening, relish a delicious dinner at your lodge, accompanied by a cultural program showcasing traditional Tharu dances and music."
+            },
+            {
+              "heading": "Day 03",
+              "image": "/Image/other-activities/jungle-safari/chitwan-jungle-safari/chitwan-jungle-safari-two-night-three-day/breakfast.webp",
+              "paragraph": "Rise early to the chirping of birds and embark on an invigorating <b>bird watching</b> excursion. Chitwan is a paradise for bird enthusiasts, with over <b>500 avian species</b> to spot. After breakfast, bid farewell to the enchanting landscapes of <b>Chitwan</b> as you prepare for your journey back to <b>Kathmandu</b> or <b>Pokhara</b>. Reflect on your wildlife encounters and cultural experiences, cherishing the memories of your unforgettable adventure in the heart of Nepal's wilderness."
+            }
+          ]
+        },
+        {
+          "heading": "Three Night Four Day",
+          "days": [
+            {
+              "heading": "Day 01",
+              "image": "/Image/other-activities/jungle-safari/chitwan-jungle-safari/chitwan-jungle-safari-three-night-four-day/canoeing.jpg",
+              "paragraph": "Commence your expedition with a scenic flight or drive from <b>Kathmandu</b> or <b>Pokhara</b> to <b>Chitwan</b>. Upon arrival, transfer to your chosen lodge or hotel where a warm welcome awaits. After settling in and enjoying a refreshing drink, indulge in a delicious lunch. In the afternoon, venture into the heart of <b>Chitwan National Park</b> with a guided nature walk or visit the observation tower for sweeping views of the park's vast expanses. As the sun sets, immerse yourself in the cultural heritage of the <b>Tharu community</b> through a captivating slide show or traditional Tharu stick dance. Dinner will be served with a cultural program, offering insights into local traditions and flavors."
+            },
+            {
+              "heading": "Day 02",
+              "image": "/Image/other-activities/jungle-safari/chitwan-jungle-safari/chitwan-jungle-safari-three-night-four-day/elephant-back.jpg",
+              "paragraph": "Awaken to the melodies of the jungle and embark on an exhilarating <b>elephant back safari</b> through the dense jungles of Chitwan. Experience close encounters with wildlife as you traverse the picturesque landscapes. Return to your lodge for a hearty breakfast before visiting the <b>Elephant Breeding Centre</b> to learn about conservation efforts and interact with these gentle giants. After lunch, embark on an <b>elephant ride</b> or opt for leisure time to soak in the tranquility of your surroundings. In the evening, enjoy dinner accompanied by a cultural program featuring traditional <b>Tharu dances</b> and music."
+            },
+            {
+              "heading": "Day 03",
+              "image": "/Image/other-activities/jungle-safari/chitwan-jungle-safari/chitwan-jungle-safari-three-night-four-day/tharu-dance.jpg",
+              "paragraph": "Start your day with an early morning <b>bird watching</b> excursion to spot some of the park's over <b>500 avian species</b>. After breakfast, embark on an adventurous <b>jeep drive</b> to <b>Ghadagai Lake</b> and <b>Crocodile Lake</b>, where you can observe diverse wildlife in their natural habitat. Return to your lodge for lunch and spend the afternoon at leisure, reflecting on your wildlife encounters. In the evening, savor a delicious dinner accompanied by a cultural program featuring captivating <b>Tharu dances</b> and music, celebrating the cultural heritage of the region."
+            },
+            {
+              "heading": "Day 04",
+              "image": "/Image/other-activities/jungle-safari/chitwan-jungle-safari/chitwan-jungle-safari-three-night-four-day/jeep-safari.jpg",
+              "paragraph": "Rise early for a thrilling <b>jeep safari</b> through the rugged terrain of Chitwan National Park. Explore deeper into the wilderness, seeking out rare wildlife and soaking in the breathtaking landscapes. Return to your lodge for a final breakfast, reminiscing about your unforgettable adventures in Chitwan. Bid farewell to this natural paradise as you prepare for your journey back to <b>Kathmandu</b> or <b>Pokhara</b>, carrying cherished memories of your wildlife encounters and cultural experiences."
+            }
+          ]
+        }
+      ]
+    },
+    "bardiya-jungle-safari": {
+  "subhero": {
+    "title": "Bardiya Jungle Safari",
+    "image": "/Image/other-activities/jungle-safari/bardiya-jungle-safari/bardiya-jungle-safari-hero-image.jpg"
+  },
+  "overview": {
+    "heading": "Overview For Bardiya Jungle Safari",
+    "paragraph": "Embark on an extraordinary adventure with the Bardiya Jungle Safari, immersing yourself in the untouched wilderness of <b>Bardiya National Park</b>, a sanctuary nestled in Nepal's <b>Terai region</b>. This safari offers a thrilling exploration of diverse ecosystems, from lush jungles to serene riversides. Join expert naturalists on exhilarating <b>jeep safaris</b> and <b>elephant back rides</b> through dense forests, seeking glimpses of elusive wildlife like <b>Bengal tigers</b>, <b>one-horned rhinos</b>, and a myriad of bird species. Glide along the tranquil waters of the <b>Karnali River</b> on <b>canoe rides</b>, observing sunbathing crocodiles and vibrant riverine landscapes. Immerse yourself in the cultural tapestry of the region with insightful visits to <b>Tharu villages</b>, where ancient traditions come to life amidst the natural splendor."
+  },
+  "trip-facts": {
+    "heading": "Trip Facts",
+    "facts": [
+      "<b>Location:</b> Bardiya National Park, Nepal",
+      "<b>Best Time to Visit:</b> October to March",
+      "<b>Duration:</b> 2 to 4 days",
+      "<b>Accommodation:</b> Jungle lodges, hotels, and tented camps",
+      "<b>Activities:</b> Jeep safari, elephant back safari, canoe ride, bird watching, Tharu village tours",
+      "<b>Wildlife to See:</b> Bengal tiger, one-horned rhino, Asian elephant, crocodile, diverse bird species",
+      "<b>Accessibility:</b> By road from Kathmandu or Pokhara, or by flight to Nepalgunj followed by road transfer"
+    ]
+  },
+  "programs": [
+    {
+      "heading": "Two Night Three Day",
+      "days": [
+        {
+          "heading": "Day 01",
+          "image": "/Image/other-activities/jungle-safari/bardiya-jungle-safari/bardiya-jungle-safari-two-night-three-day/crocodile-breeding-center.jpg",
+          "paragraph": "Your adventure begins with an early morning flight from <b>Kathmandu</b> to <b>Nepalgunj</b>. Upon arrival, you will be transferred to your chosen lodge or camp in Bardiya National Park. After settling in and enjoying a refreshment, embark on a visit to the <b>crocodile breeding center</b> and a <b>Tharu village tour</b>. In the evening, witness a cultural program featuring traditional <b>Tharu dances</b> and music. Enjoy a delightful dinner at your accommodation."
+        },
+        {
+          "heading": "Day 02",
+          "image": "/Image/other-activities/jungle-safari/bardiya-jungle-safari/bardiya-jungle-safari-two-night-three-day/jeep-safari.jpg",
+          "paragraph": "Awaken to the sounds of the jungle and start your day with an exhilarating <b>jeep safari</b> through Bardiya's wilderness. Explore diverse habitats and keep an eye out for wildlife such as <b>Bengal tigers</b>, <b>rhinos</b>, and various bird species. Return to your lodge for a hearty breakfast before embarking on an <b>elephant back safari</b> to get closer to the park's wildlife. After lunch, choose from activities like <b>bird watching</b> or a leisurely stroll through the jungle. Enjoy dinner and cultural entertainment in the evening."
+        },
+        {
+          "heading": "Day 03",
+          "image": "/Image/other-activities/jungle-safari/bardiya-jungle-safari/bardiya-jungle-safari-two-night-three-day/canoe-ride.jpg",
+          "paragraph": "Begin your day with an early morning <b>bird watching</b> tour to spot some of Bardiya's diverse avian species. After breakfast, embark on a serene <b>canoe ride</b> along the <b>Karnali River</b>, observing crocodiles and riverine landscapes. Return to your lodge for lunch and prepare for your departure. Transfer to Nepalgunj for your onward journey, reflecting on your wildlife encounters and cultural experiences."
+        }
+      ]
+    },
+    {
+      "heading": "Three Night Four Day",
+      "days": [
+        {
+          "heading": "Day 01",
+          "image": "/Image/other-activities/jungle-safari/bardiya-jungle-safari/bardiya-jungle-safari-three-night-four-day/tharu-cultural-program.jpg",
+          "paragraph": "Commence your expedition with an early morning flight from <b>Kathmandu</b> to <b>Nepalgunj</b>, followed by a transfer to your selected lodge or camp in Bardiya National Park. Enjoy a refreshment and briefing about the upcoming adventures. Visit the <b>crocodile breeding center</b> and experience the cultural richness of a <b>Tharu village</b>. In the evening, indulge in a cultural program featuring traditional <b>Tharu dances</b> and music, followed by dinner."
+        },
+        {
+          "heading": "Day 02",
+          "image": "/Image/other-activities/jungle-safari/bardiya-jungle-safari/bardiya-jungle-safari-three-night-four-day/elephant-back-safari.jpg",
+          "paragraph": "Wake up to the melodies of nature and embark on an exciting <b>elephant back safari</b> through Bardiya's jungles. Encounter wildlife like <b>Bengal tigers</b> and <b>rhinos</b> up close. Visit the <b>Visitor Center</b>, <b>Crocodile Breeding Center</b>, and <b>Tharu Cultural Museum</b> to learn about local wildlife and culture. Enjoy lunch at your lodge followed by a <b>jungle walk</b> or a visit to an observation tower. Dinner and cultural entertainment await you in the evening."
+        },
+        {
+          "heading": "Day 03",
+          "image": "/Image/other-activities/jungle-safari/bardiya-jungle-safari/bardiya-jungle-safari-three-night-four-day/jeep-drive.jpg",
+          "paragraph": "Begin your day with a <b>tiger tracking</b> and <b>bird watching</b> excursion to spot rare species in Bardiya. After breakfast, embark on an adventurous <b>jeep safari</b> through the park's diverse landscapes. Encounter wildlife and enjoy the scenic beauty of the region. Return to your lodge for lunch and relax or opt for additional activities like <b>elephant bathing</b>. In the evening, enjoy cultural performances and dinner at your lodge."
+        },
+        {
+          "heading": "Day 04",
+          "image": "/Image/other-activities/jungle-safari/bardiya-jungle-safari/bardiya-jungle-safari-three-night-four-day/dolphin-sightseeing.jpg",
+          "paragraph": "Rise early for a visit to the <b>Karnali River</b> for <b>dolphin sightseeing</b>, a unique experience in Bardiya. Return to your lodge for breakfast and prepare for your departure. Transfer to Nepalgunj for your onward journey, cherishing the memories of your wildlife encounters and cultural immersion in Bardiya National Park."
+        }
+      ]
+    }
+  ]
+},
+"koshi-tappu-wildlife-reserve": {
+  "subhero": {
+    "title": "Koshi Tappu Wildlife Reserve",
+    "image": "/Image/other-activities/jungle-safari/koshi-tappu-wildlife-reserve/koshi-tappu-wildlife-reserve-hero-image.jpg"
+  },
+  "overview": {
+    "heading": "Overview For Koshi Tappu Wildlife Reserve",
+    "paragraph": "Explore the serene beauty of <b>Koshi Tappu Wildlife Reserve</b>, a haven for wildlife enthusiasts nestled in Nepal's eastern <b>Terai region</b>. This reserve is renowned for its rich biodiversity and as a sanctuary for migratory birds. Embark on unforgettable <b>bird watching</b> excursions along the banks of the <b>Koshi River</b>, where rare species like the <b>spoon-billed sandpiper</b> and <b>swamp francolin</b> thrive. Delight in <b>elephant safaris</b> and <b>boat rides</b> through marshlands, encountering <b>gangetic dolphins</b> and <b>gharial crocodiles</b>. Immerse yourself in the local culture with visits to <b>Rai and Tharu villages</b>, where traditional lifestyles harmonize with the natural splendor."
+  },
+  "trip-facts": {
+    "heading": "Trip Facts",
+    "facts": [
+      "<b>Location:</b> Eastern Terai region, Nepal",
+      "<b>Best Time to Visit:</b> October to March",
+      "<b>Duration:</b> Varies (1 to 5 days)",
+      "<b>Accommodation:</b> Wildlife lodges and tented camps",
+      "<b>Activities:</b> Bird watching, elephant safari, boat ride, village tours, dolphin sightseeing",
+      "<b>Wildlife to See:</b> Gangetic dolphins, gharial crocodiles, migratory birds, swamp francolin",
+      "<b>Accessibility:</b> By road from Kathmandu or Biratnagar, followed by a short drive"
+    ]
+  },
+  "programs": [
+    {
+      "heading": "One Day Trip",
+      "days": [
+        {
+          "heading": "Day 01",
+          "image": "/Image/other-activities/jungle-safari/koshi-tappu-wildlife-reserve/koshi-tappu-wildlife-reserve-one-day-trip/bird-watching.jpg",
+          "paragraph": "Start your adventure with an early morning departure from <b>Kathmandu</b> or <b>Biratnagar</b> to Koshi Tappu Wildlife Reserve. Upon arrival, embark on a thrilling <b>bird watching</b> tour along the banks of the <b>Koshi River</b>, where you can spot rare migratory birds and resident species. Enjoy a picnic lunch amidst the tranquil surroundings. In the afternoon, take a <b>boat ride</b> on the river, observing <b>gangetic dolphins</b> and <b>gharial crocodiles</b>. Visit a <b>Rai or Tharu village</b> to experience local culture before returning to Kathmandu or Biratnagar in the evening."
+        }
+      ]
+    },
+    {
+      "heading": "Two Days One Night",
+      "days": [
+        {
+          "heading": "Day 01",
+          "image": "/Image/other-activities/jungle-safari/koshi-tappu-wildlife-reserve/koshi-tappu-wildlife-reserve-two-days-one-night/elephant-safari.jpg",
+          "paragraph": "Arrive at Koshi Tappu Wildlife Reserve after a scenic drive from Kathmandu or Biratnagar. Check in to your chosen lodge or camp and savor a delicious lunch. In the afternoon, embark on an <b>elephant safari</b> through the reserve, encountering wildlife such as <b>deer</b> and <b>wild boar</b>. Return to your accommodation for dinner and overnight stay."
+        },
+        {
+          "heading": "Day 02",
+          "image": "/Image/other-activities/jungle-safari/koshi-tappu-wildlife-reserve/koshi-tappu-wildlife-reserve-two-days-one-night/village-tour.jpg",
+          "paragraph": "Begin your day with a serene <b>boat ride</b> along the <b>Koshi River</b>, observing <b>gangetic dolphins</b> and <b>water birds</b>. After breakfast, explore the reserve on foot with a guided <b>bird watching</b> tour, discovering rare species in their natural habitat. Visit a <b>Tharu village</b> to learn about traditional lifestyles and enjoy lunch. Depart for Kathmandu or Biratnagar in the afternoon, reminiscing about your wildlife encounters and cultural experiences."
+        }
+      ]
+    },
+    {
+      "heading": "Three Days Two Nights",
+      "days": [
+        {
+          "heading": "Day 01",
+          "image": "/Image/other-activities/jungle-safari/koshi-tappu-wildlife-reserve/koshi-tappu-wildlife-reserve-three-days-two-nights/boat-ride.jpg",
+          "paragraph": "Commence your journey with a scenic drive from Kathmandu or Biratnagar to Koshi Tappu Wildlife Reserve. Check in to your lodge or tented camp and enjoy lunch. In the afternoon, embark on a <b>boat ride</b> along the <b>Koshi River</b>, marveling at <b>gangetic dolphins</b> and <b>gharial crocodiles</b>. Return to your accommodation for a relaxing evening and dinner."
+        },
+        {
+          "heading": "Day 02",
+          "image": "/Image/other-activities/jungle-safari/koshi-tappu-wildlife-reserve/koshi-tappu-wildlife-reserve-three-days-two-nights/elephant-safari.jpg",
+          "paragraph": "Rise early for an exciting <b>elephant safari</b> through Koshi Tappu, encountering <b>wild buffalo</b> and <b>deer</b> in their natural habitat. Return to your lodge for breakfast and embark on a guided <b>bird watching</b> tour, discovering rare avian species. After lunch, visit a <b>Rai village</b> to experience local culture and traditions. Enjoy dinner and cultural performances at your accommodation."
+        },
+        {
+          "heading": "Day 03",
+          "image": "/Image/other-activities/jungle-safari/koshi-tappu-wildlife-reserve/koshi-tappu-wildlife-reserve-three-days-two-nights/village-tour.jpg",
+          "paragraph": "Start your day with a final <b>bird watching</b> session to spot migratory birds before breakfast. Visit a nearby <b>Tharu village</b> to learn about their unique way of life and traditions. Enjoy lunch at your lodge and depart for Kathmandu or Biratnagar in the afternoon, cherishing the memories of your wildlife encounters and cultural immersion."
+        }
+      ]
+    }
+  ]
+}
+  },
+    "rafting": {
+        "url":"rafting",
+        "subhero":{
+            "title":"Rafting",
+            "image":"/Test.jpg"
+          },
+        "overview":{
+            "heading":"Overview For Rafting",
+            "paragraph":"Hello"
+    },
+    "subotheractivities":{
+        "heading":"Famous Rafting in Nepal",
+        "activities":[{
+            "name":"Trishuli River Rafting",
+            "image":"/Test.jpg",
+            "days":"1-3",
+            "link":"/other-activities/rafting/trishuli-river-rafting"
+        },
+    {
+      "name":"Seti Khola Rafting",
+      "image":"/Test.jpg",
+      "days":"1-2",
+      "link":"/other-activities/rafting/seti-khola-rafting"
+    },
+    {
+        "name":"Kali Gandaki River Rafting",
+        "image":"/Test.jpg",
+        "days":"1-2",
+        "link":"/other-activities/rafting/kali-gandaki-rafting"
+      },
+      {
+        "name":"Marshyangdi River Rafting",
+        "image":"/Test.jpg",
+        "days":"5",
+        "link":"/other-activities/rafting/marshyangdi-rafting"
+      },
+      {
+        "name":"Bhote Koshi River Rafting",
+        "image":"/Test.jpg",
+        "days":"2",
+        "link":"/other-activities/rafting/bhote-koshi-rafting"
+      },
+      {
+        "name":"Karnali River Rafting",
+        "image":"/Test.jpg",
+        "days":"5",
+        "link":"/other-activities/rafting/karnali-rafting"
+      },
+      {
+        "name":"Sunkoshi River Rafting",
+        "image":"/Test.jpg",
+        "days":"5",
+        "link":"/other-activities/rafting/sunkoshi-rafting"
+      },
+      {
+        "name":"Bheri River Rafting",
+        "image":"/Test.jpg",
+        "days":"4",
+        "link":"/other-activities/rafting/bheri-rafting"
+      },
+      {
+        "name":"Tumor River Rafting",
+        "image":"/Test.jpg",
+        "days":"11",
+        "link":"/other-activities/rafting/tumor-rafting"
+      },
+      {
+        "name":"Sabaiya River Rafting",
+        "image":"/Test.jpg",
+        "days":"6",
+        "link":"/other-activities/rafting/sabaiya-rafting"
+      }
+]
+    },
+    "trishuli-river-rafting":{
+      "subhero": {
+        "title": "Trushuli River Rafting",
+        "image": "/Image/other-activities/heli-tour/ebc-heli-tour-hero.jpeg"
+    },
+    "overview": {
+      "heading": "Overview For Trishuli River Rafting",
+      "paragraph": "The <b>Trishuli River Rafting</b> adventure is a thrilling journey through the heart of Nepal's natural beauty. Known for its exciting rapids and scenic landscapes, the <b>Trishuli River</b> offers an ideal combination of adventure and relaxation. This popular rafting destination draws enthusiasts from around the globe, eager to experience the river's dynamic flow and stunning surroundings. The adventure begins at <b>Charaudi</b>, a small village situated along the riverbank, where rafters receive a comprehensive safety briefing and are equipped with necessary gear. As you set off downstream, the journey takes you through lush valleys, terraced farms, and traditional villages, offering a glimpse into the local culture and lifestyle. The river's rapids, such as <b>Snail's Nose</b>, <b>Teendevi</b>, and <b>Pinball Rapid</b>, promise an exhilarating experience for both novice and experienced rafters, with the changing intensity of the rapids ensuring a memorable ride. Between the rapids, there are calm sections where you can relax and soak in the breathtaking scenery, with opportunities to spot diverse wildlife along the riverbanks. The trip includes stops at sandy beaches, where you can swim, sunbathe, and enjoy a picnic amidst nature. The highlight of the journey is navigating the challenging <b>Upset Rapid</b> and the thrilling <b>Surprise Rapid</b>, which are sure to get your adrenaline pumping. The rafting adventure concludes at <b>Fishling</b>, a picturesque spot where you can unwind and reflect on the day's excitement. Here, you can relax and enjoy a delicious meal by the riverside, often featuring local delicacies prepared fresh. This rafting adventure is perfect for those seeking both excitement and the chance to immerse themselves in Nepal's stunning landscapes. Additionally, the Trishuli River's accessibility makes it an ideal choice for a short yet fulfilling getaway, as it is conveniently located between Kathmandu and Pokhara, allowing easy integration into a broader travel itinerary in Nepal."
+  },
+  "trip-facts": {
+    "heading": "Trip Facts",
+    "facts": [
+        "<b>Duration:</b> 1-3 days",
+        "<b>Starting Point:</b> Charaudi",
+        "<b>Ending Point:</b> Fishling",
+        "<b>Grade:</b> III+ (Moderate to Challenging)",
+        "<b>Best Season:</b> March to June, September to November",
+        "<b>Highlights:</b> Exciting rapids, scenic landscapes, local culture, wildlife sightings",
+        "<b>Accessibility:</b> Conveniently located between Kathmandu and Pokhara"
+    ]
+},
+"programs": [
+  {
+      "heading": "One Day Rafting",
+      "days": [
+          {
+              "heading": "Day 01",
+              "image": "/Image/activities/rafting/trishuli-river-rafting/one-day/trishuli-river.jpg",
+              "paragraph": "Begin your <b>Trishuli River Rafting</b> adventure with an early morning drive from <b>Kathmandu</b> or <b>Pokhara</b> to <b>Charaudi</b>. After a comprehensive safety briefing and gear check, embark on the thrilling rafting journey. Navigate through exciting rapids such as <b>Snail's Nose</b> and <b>Teendevi</b> while enjoying the stunning landscapes. Take breaks on sandy beaches for swimming and relaxation. Conclude your rafting experience at <b>Fishling</b>, where you will enjoy a delicious riverside lunch before heading back to your starting point, filled with exhilarating memories."
+          }
+      ]
+  },
+  {
+      "heading": "Two Days Rafting",
+      "days": [
+          {
+              "heading": "Day 01",
+              "image": "/Image/activities/rafting/trishuli-river-rafting/two-days/trishuli-river.jpg",
+              "paragraph": "Start your two-day rafting adventure with a scenic drive from <b>Kathmandu</b> or <b>Pokhara</b> to <b>Charaudi</b>. After a safety briefing and gear check, begin your journey down the <b>Trishuli River</b>. Experience thrilling rapids such as <b>Snail's Nose</b> and <b>Teendevi</b>, interspersed with calm stretches perfect for soaking in the scenic beauty. Enjoy a riverside lunch and continue rafting in the afternoon. Set up camp on a sandy beach along the river, where you can relax, swim, and enjoy a campfire dinner under the stars."
+          },
+          {
+              "heading": "Day 02",
+              "image": "/Image/activities/rafting/trishuli-river-rafting/two-days/camp.jpg",
+              "paragraph": "Awaken to the sound of the river and a hearty breakfast at your riverside camp. Resume your rafting adventure, tackling exciting rapids such as <b>Pinball Rapid</b> and <b>Upset Rapid</b>. Enjoy the lush landscapes and occasional wildlife sightings as you make your way downstream. Conclude your journey at <b>Fishling</b>, where you will have lunch and some time to relax before returning to <b>Kathmandu</b> or <b>Pokhara</b>, enriched by the thrilling experience and natural beauty of the Trishuli River."
+          }
+      ]
+  },
+  {
+      "heading": "Three Days Rafting",
+      "days": [
+          {
+              "heading": "Day 01",
+              "image": "/Image/activities/rafting/trishuli-river-rafting/three-days/trishuli-river.jpg",
+              "paragraph": "Begin your three-day rafting expedition with an early morning drive from <b>Kathmandu</b> or <b>Pokhara</b> to <b>Charaudi</b>. After a detailed safety briefing and gear check, start your journey on the <b>Trishuli River</b>. Navigate through exciting rapids like <b>Snail's Nose</b> and <b>Teendevi</b>, enjoying the scenic landscapes along the way. Break for a riverside lunch and continue rafting in the afternoon. Set up camp on a sandy beach, where you can relax, swim, and enjoy a campfire dinner under the stars."
+          },
+          {
+              "heading": "Day 02",
+              "image": "/Image/activities/rafting/trishuli-river-rafting/three-days/camp.jpg",
+              "paragraph": "Start your day with a hearty breakfast at your riverside camp. Continue rafting down the Trishuli River, experiencing rapids such as <b>Pinball Rapid</b> and <b>Upset Rapid</b>. Take breaks to swim and explore the riverbanks. Enjoy a packed lunch on a scenic spot before setting up your second night’s camp. Spend the evening relaxing by the campfire, sharing stories, and enjoying a delicious dinner under the night sky."
+          },
+          {
+              "heading": "Day 03",
+              "image": "/Image/activities/rafting/trishuli-river-rafting/three-days/fishling.jpg",
+              "paragraph": "Wake up to the tranquil sounds of the river and enjoy breakfast at your riverside camp. On the final day, tackle the last set of thrilling rapids, such as <b>Surprise Rapid</b>. Conclude your rafting adventure at <b>Fishling</b>, where you will have a celebratory lunch by the river. After relaxing and reflecting on your thrilling journey, return to <b>Kathmandu</b> or <b>Pokhara</b> with unforgettable memories of your Trishuli River rafting experience."
+          }
+      ]
+  }
+]
+    
+    },
+    "seti-khola-river-rafting": {
+      "subhero": {
+        "title": "Seti Khola River Rafting",
+        "image": "/Image/other-activities/rafting/seti-khola-rafting-hero.jpg"
+      },
+      "overview": {
+        "heading": "Overview For Seti Khola River Rafting",
+        "paragraph": "The <b>Seti Khola River Rafting</b> adventure is a unique and exciting journey through one of Nepal's most beautiful rivers. Known for its gentle rapids and stunning scenery, the <b>Seti Khola River</b> offers an ideal mix of adventure and natural beauty. This rafting trip is perfect for families, beginners, and those seeking a relaxing yet thrilling experience. The adventure begins at <b>Damauli</b>, where participants receive a comprehensive safety briefing and are equipped with necessary gear. As you set off, the journey takes you through pristine landscapes, lush forests, and charming villages, providing a glimpse into the local culture and lifestyle. The river's rapids, though mild, offer an enjoyable experience for all skill levels. Between the rapids, there are calm sections where you can relax and soak in the breathtaking scenery. The trip includes stops at sandy beaches, perfect for swimming, sunbathing, and enjoying a picnic. The highlight of the journey is the opportunity to spot diverse wildlife and birds along the riverbanks. The rafting adventure concludes at <b>Gaighat</b>, where you can unwind and reflect on the day's excitement. Here, you can relax and enjoy a delicious meal by the riverside, often featuring local delicacies. This rafting adventure is ideal for those looking to experience the tranquility and natural beauty of Nepal's rivers. Additionally, the Seti Khola River's accessibility makes it a convenient choice for a short yet fulfilling getaway, easily integrated into a broader travel itinerary in Nepal."
+      },
+      "trip-facts": {
+        "heading": "Trip Facts",
+        "facts": [
+          "<b>Duration:</b> 2-3 days",
+          "<b>Starting Point:</b> Damauli",
+          "<b>Ending Point:</b> Gaighat",
+          "<b>Grade:</b> II+ (Easy to Moderate)",
+          "<b>Best Season:</b> September to June",
+          "<b>Highlights:</b> Gentle rapids, scenic landscapes, local culture, wildlife sightings",
+          "<b>Accessibility:</b> Conveniently located near Pokhara"
+        ]
+      },
+      "programs": [
+        {
+          "heading": "Two Days Rafting",
+          "days": [
+            {
+              "heading": "Day 01",
+              "image": "/Image/activities/rafting/seti-khola-rafting/two-days/seti-river.jpg",
+              "paragraph": "Begin your <b>Seti Khola River Rafting</b> adventure with an early morning drive from <b>Pokhara</b> to <b>Damauli</b>. After a comprehensive safety briefing and gear check, embark on the serene rafting journey. Navigate through gentle rapids while enjoying the stunning landscapes. Take breaks on sandy beaches for swimming and relaxation. Set up camp on a riverbank, where you can enjoy a campfire dinner and sleep under the stars."
+            },
+            {
+              "heading": "Day 02",
+              "image": "/Image/activities/rafting/seti-khola-rafting/two-days/camp.jpg",
+              "paragraph": "Awaken to the sound of the river and a hearty breakfast at your riverside camp. Continue rafting down the Seti Khola, experiencing mild rapids and beautiful scenery. Enjoy a packed lunch on a scenic spot before concluding your journey at <b>Gaighat</b>. Reflect on your peaceful adventure before returning to <b>Pokhara</b>, filled with wonderful memories of the Seti Khola River."
+            }
+          ]
+        },
+        {
+          "heading": "Three Days Rafting",
+          "days": [
+            {
+              "heading": "Day 01",
+              "image": "/Image/activities/rafting/seti-khola-rafting/three-days/seti-river.jpg",
+              "paragraph": "Begin your three-day rafting expedition with an early morning drive from <b>Pokhara</b> to <b>Damauli</b>. After a detailed safety briefing and gear check, start your journey on the <b>Seti Khola River</b>. Navigate through gentle rapids, enjoying the scenic landscapes along the way. Break for a riverside lunch and continue rafting in the afternoon. Set up camp on a sandy beach, where you can relax, swim, and enjoy a campfire dinner under the stars."
+            },
+            {
+              "heading": "Day 02",
+              "image": "/Image/activities/rafting/seti-khola-rafting/three-days/camp.jpg",
+              "paragraph": "Start your day with a hearty breakfast at your riverside camp. Continue rafting down the Seti Khola, experiencing mild rapids and beautiful scenery. Take breaks to swim and explore the riverbanks. Enjoy a packed lunch on a scenic spot before setting up your second night’s camp. Spend the evening relaxing by the campfire, sharing stories, and enjoying a delicious dinner under the night sky."
+            },
+            {
+              "heading": "Day 03",
+              "image": "/Image/activities/rafting/seti-khola-rafting/three-days/gaighat.jpg",
+              "paragraph": "Wake up to the tranquil sounds of the river and enjoy breakfast at your riverside camp. On the final day, tackle the last set of mild rapids. Conclude your rafting adventure at <b>Gaighat</b>, where you will have a celebratory lunch by the river. After relaxing and reflecting on your peaceful journey, return to <b>Pokhara</b> with unforgettable memories of your Seti Khola River rafting experience."
+            }
+          ]
+        }
+      ]
+    },
+    "kali-gandaki-river-rafting": {
+      "subhero": {
+        "title": "Everest Base Camp Heli Tour",
+        "image": "/Image/other-activities/heli-tour/ebc-heli-tour-hero.jpeg"
+    },
+    "overview": {
+        "heading": "Overview For Everest Base Camp Heli Tour",
+        "paragraph": "The <b>Everest Base Camp Heli Tour</b> offers a unique opportunity to experience the grandeur of <b>Mount Everest</b> and the surrounding peaks. This tour provides a close-up view of the world's highest mountain, along with panoramic vistas of the <b>Khumbu Glacier</b> and the majestic <b>Himalayan range</b>. Departing from <b>Kathmandu</b>, the flight takes you over picturesque villages and lush valleys before landing at the base camp, where you can soak in the awe-inspiring scenery and take memorable photographs. The return journey includes a stop at <b>Kalapatthar</b>, a vantage point that offers the best view of Everest. This tour is perfect for those who want to see Everest without the physical demands of trekking."
+    },
+    "trip-facts": {
+        "heading": "Trip Facts",
+        "facts": [
+            "<b>Flight Duration:</b> 4-5 hours",
+            "<b>Departure:</b> Kathmandu",
+            "<b>Landing Points:</b> Everest Base Camp, Kalapatthar",
+            "<b>Highlights:</b> Mount Everest, Khumbu Glacier, Kalapatthar"
+        ]
+    },
+    "programs": [
+        {
+            "heading": "Everest Base Camp Heli Tour Program",
+            "days": [
+                {
+                    "heading": "Discription",
+                    "image": "/Image/other-activities/heli-tour/ebc-heli-tour-discription.jpg",
+                    "paragraph": "<p>Experience the ultimate adventure with the <b>Everest Base Camp Heli Tour</b>. Departing from <b>Kathmandu</b>, this thrilling flight offers an up-close view of <b>Mount Everest</b>, the highest peak in the world, along with stunning panoramas of the <b>Khumbu Glacier</b> and surrounding peaks. The tour includes a landing at the base camp, where you can step out and take in the breathtaking scenery. A stop at <b>Kalapatthar</b> provides the best vantage point for photography and viewing Everest. This tour is designed for those who wish to experience the Himalayas in a short time and with maximum comfort.</p>"
+                }
+            ]
+        }
+    ]
+  }, 
+    "marshyangdir-river-rafting": {
+      "subhero": {
+        "title": "Everest Base Camp Heli Tour",
+        "image": "/Image/other-activities/heli-tour/ebc-heli-tour-hero.jpeg"
+    },
+    "overview": {
+        "heading": "Overview For Everest Base Camp Heli Tour",
+        "paragraph": "The <b>Everest Base Camp Heli Tour</b> offers a unique opportunity to experience the grandeur of <b>Mount Everest</b> and the surrounding peaks. This tour provides a close-up view of the world's highest mountain, along with panoramic vistas of the <b>Khumbu Glacier</b> and the majestic <b>Himalayan range</b>. Departing from <b>Kathmandu</b>, the flight takes you over picturesque villages and lush valleys before landing at the base camp, where you can soak in the awe-inspiring scenery and take memorable photographs. The return journey includes a stop at <b>Kalapatthar</b>, a vantage point that offers the best view of Everest. This tour is perfect for those who want to see Everest without the physical demands of trekking."
+    },
+    "trip-facts": {
+        "heading": "Trip Facts",
+        "facts": [
+            "<b>Flight Duration:</b> 4-5 hours",
+            "<b>Departure:</b> Kathmandu",
+            "<b>Landing Points:</b> Everest Base Camp, Kalapatthar",
+            "<b>Highlights:</b> Mount Everest, Khumbu Glacier, Kalapatthar"
+        ]
+    },
+    "programs": [
+        {
+            "heading": "Everest Base Camp Heli Tour Program",
+            "days": [
+                {
+                    "heading": "Discription",
+                    "image": "/Image/other-activities/heli-tour/ebc-heli-tour-discription.jpg",
+                    "paragraph": "<p>Experience the ultimate adventure with the <b>Everest Base Camp Heli Tour</b>. Departing from <b>Kathmandu</b>, this thrilling flight offers an up-close view of <b>Mount Everest</b>, the highest peak in the world, along with stunning panoramas of the <b>Khumbu Glacier</b> and surrounding peaks. The tour includes a landing at the base camp, where you can step out and take in the breathtaking scenery. A stop at <b>Kalapatthar</b> provides the best vantage point for photography and viewing Everest. This tour is designed for those who wish to experience the Himalayas in a short time and with maximum comfort.</p>"
+                }
+            ]
+        }
+    ]
+  },
+    "bhote-koshi-river-rafting": {
+      "subhero": {
+        "title": "Everest Base Camp Heli Tour",
+        "image": "/Image/other-activities/heli-tour/ebc-heli-tour-hero.jpeg"
+    },
+    "overview": {
+        "heading": "Overview For Everest Base Camp Heli Tour",
+        "paragraph": "The <b>Everest Base Camp Heli Tour</b> offers a unique opportunity to experience the grandeur of <b>Mount Everest</b> and the surrounding peaks. This tour provides a close-up view of the world's highest mountain, along with panoramic vistas of the <b>Khumbu Glacier</b> and the majestic <b>Himalayan range</b>. Departing from <b>Kathmandu</b>, the flight takes you over picturesque villages and lush valleys before landing at the base camp, where you can soak in the awe-inspiring scenery and take memorable photographs. The return journey includes a stop at <b>Kalapatthar</b>, a vantage point that offers the best view of Everest. This tour is perfect for those who want to see Everest without the physical demands of trekking."
+    },
+    "trip-facts": {
+        "heading": "Trip Facts",
+        "facts": [
+            "<b>Flight Duration:</b> 4-5 hours",
+            "<b>Departure:</b> Kathmandu",
+            "<b>Landing Points:</b> Everest Base Camp, Kalapatthar",
+            "<b>Highlights:</b> Mount Everest, Khumbu Glacier, Kalapatthar"
+        ]
+    },
+    "programs": [
+        {
+            "heading": "Everest Base Camp Heli Tour Program",
+            "days": [
+                {
+                    "heading": "Discription",
+                    "image": "/Image/other-activities/heli-tour/ebc-heli-tour-discription.jpg",
+                    "paragraph": "<p>Experience the ultimate adventure with the <b>Everest Base Camp Heli Tour</b>. Departing from <b>Kathmandu</b>, this thrilling flight offers an up-close view of <b>Mount Everest</b>, the highest peak in the world, along with stunning panoramas of the <b>Khumbu Glacier</b> and surrounding peaks. The tour includes a landing at the base camp, where you can step out and take in the breathtaking scenery. A stop at <b>Kalapatthar</b> provides the best vantage point for photography and viewing Everest. This tour is designed for those who wish to experience the Himalayas in a short time and with maximum comfort.</p>"
+                }
+            ]
+        }
+    ]
+  },
+  "karnali-river-rafting": {
+    "subhero": {
+      "title": "Everest Base Camp Heli Tour",
+      "image": "/Image/other-activities/heli-tour/ebc-heli-tour-hero.jpeg"
+  },
+  "overview": {
+      "heading": "Overview For Everest Base Camp Heli Tour",
+      "paragraph": "The <b>Everest Base Camp Heli Tour</b> offers a unique opportunity to experience the grandeur of <b>Mount Everest</b> and the surrounding peaks. This tour provides a close-up view of the world's highest mountain, along with panoramic vistas of the <b>Khumbu Glacier</b> and the majestic <b>Himalayan range</b>. Departing from <b>Kathmandu</b>, the flight takes you over picturesque villages and lush valleys before landing at the base camp, where you can soak in the awe-inspiring scenery and take memorable photographs. The return journey includes a stop at <b>Kalapatthar</b>, a vantage point that offers the best view of Everest. This tour is perfect for those who want to see Everest without the physical demands of trekking."
+  },
+  "trip-facts": {
+      "heading": "Trip Facts",
+      "facts": [
+          "<b>Flight Duration:</b> 4-5 hours",
+          "<b>Departure:</b> Kathmandu",
+          "<b>Landing Points:</b> Everest Base Camp, Kalapatthar",
+          "<b>Highlights:</b> Mount Everest, Khumbu Glacier, Kalapatthar"
+      ]
+  },
+  "programs": [
+      {
+          "heading": "Everest Base Camp Heli Tour Program",
+          "days": [
+              {
+                  "heading": "Discription",
+                  "image": "/Image/other-activities/heli-tour/ebc-heli-tour-discription.jpg",
+                  "paragraph": "<p>Experience the ultimate adventure with the <b>Everest Base Camp Heli Tour</b>. Departing from <b>Kathmandu</b>, this thrilling flight offers an up-close view of <b>Mount Everest</b>, the highest peak in the world, along with stunning panoramas of the <b>Khumbu Glacier</b> and surrounding peaks. The tour includes a landing at the base camp, where you can step out and take in the breathtaking scenery. A stop at <b>Kalapatthar</b> provides the best vantage point for photography and viewing Everest. This tour is designed for those who wish to experience the Himalayas in a short time and with maximum comfort.</p>"
+              }
+          ]
+      }
+  ]
+  },
+  
+    "sunkoshi-river-rafting": {
+      "zip-flyer": {
+          "subhero": {
+              "title": "Zip Flyer",
+              "image": "/Image/other-activities/zip-flyer/zip-flyer.jpg"
+          },
+          "overview": {
+              "heading": "Overview For Zip Flyer",
+              "paragraph": "Experience the ultimate thrill with our Zip Flyer adventure. Soar through the skies and enjoy breathtaking views as you zip along one of the <b>longest and steepest zip lines</b> in the world. Perfect for adrenaline seekers, our Zip Flyer provides an exhilarating ride that combines <b>speed</b>, <b>height</b>, and stunning scenery. Starting from the scenic hilltop of <b>Sarangkot</b>, you will be securely harnessed and ready for an adventure like no other. As you take off, the panoramic views of the <b>Annapurna range</b>, lush forests, and the picturesque <b>Pokhara Valley</b> will unfold before you, creating a truly mesmerizing backdrop. The ride covers a distance of <b>1.8 kilometers</b> and reaches speeds of up to <b>120 km/h</b>, offering a heart-pounding experience that is both thrilling and awe-inspiring. The state-of-the-art safety measures ensure that you can fully immerse yourself in the adventure without any worries. The Zip Flyer is accessible <b>all year round</b>, making it a perfect activity regardless of the season. After the exhilarating ride, you will land safely at <b>Hemja</b>, where you can reflect on the unforgettable experience and explore the beautiful surroundings."
+          },
+          "trip-facts": {
+              "heading": "Trip Facts",
+              "facts": [
+                  "<b>Launch Point:</b> Sarangkot",
+                  "<b>End Point:</b> Hemja",
+                  "<b>Height:</b> 1,800 meters above sea level",
+                  "<b>Length:</b> 1.8 kilometers",
+                  "<b>Speed:</b> Up to 120 km/h",
+                  "<b>Best Time:</b> All year round",
+                  "<b>Accommodation:</b> Various options available in Pokhara"
+              ]
+          },
+          "programs": [
+              {
+                  "heading": "Zip Flyer",
+                  "days": [
+                      {
+                          "heading": "",
+                          "image": "/Image/other-activities/zip-flyer/pokhara-zip-flyer.webp",
+                          "paragraph": "<p>Get ready for an adventure of a lifetime with our Zip Flyer. Starting from <b>Sarangkot</b>, you will experience an adrenaline rush as you zip down <b>1.8 kilometers</b> at speeds of up to <b>120 km/h</b>, all while taking in panoramic views of the <b>Annapurna range</b>, lush forests, and the picturesque <b>Pokhara Valley</b>. The adventure ends at <b>Hemja</b>, where you can relax and recount the thrill of the ride. The journey begins with a brief orientation and safety briefing at Sarangkot. Here, you will be fitted with a secure harness and receive instructions from our experienced guides. As you launch from the hilltop, the initial drop will take your breath away, and the subsequent glide will offer a smooth yet exhilarating ride. The views from the Zip Flyer are unparalleled, providing a unique perspective of the Himalayan landscape.</p><p>The Zip Flyer experience is designed to cater to both adventure enthusiasts and first-time thrill-seekers. The state-of-the-art equipment and stringent safety protocols ensure a secure and enjoyable ride. Once you land at Hemja, you will have the opportunity to explore the local area, interact with fellow adventurers, and share your experience. This activity not only promises an adrenaline-packed adventure but also allows you to connect with nature in a profound way. Join us for an unforgettable Zip Flyer ride that will leave you with memories to last a lifetime!</p>"
+                      }
+                  ]
+              }
+          ]
+      }
+  },
+    "bheri-river-rafting": {
+      "subhero": {
+        "title": "Everest Base Camp Heli Tour",
+        "image": "/Image/other-activities/heli-tour/ebc-heli-tour-hero.jpeg"
+    },
+    "overview": {
+        "heading": "Overview For Everest Base Camp Heli Tour",
+        "paragraph": "The <b>Everest Base Camp Heli Tour</b> offers a unique opportunity to experience the grandeur of <b>Mount Everest</b> and the surrounding peaks. This tour provides a close-up view of the world's highest mountain, along with panoramic vistas of the <b>Khumbu Glacier</b> and the majestic <b>Himalayan range</b>. Departing from <b>Kathmandu</b>, the flight takes you over picturesque villages and lush valleys before landing at the base camp, where you can soak in the awe-inspiring scenery and take memorable photographs. The return journey includes a stop at <b>Kalapatthar</b>, a vantage point that offers the best view of Everest. This tour is perfect for those who want to see Everest without the physical demands of trekking."
+    },
+    "trip-facts": {
+        "heading": "Trip Facts",
+        "facts": [
+            "<b>Flight Duration:</b> 4-5 hours",
+            "<b>Departure:</b> Kathmandu",
+            "<b>Landing Points:</b> Everest Base Camp, Kalapatthar",
+            "<b>Highlights:</b> Mount Everest, Khumbu Glacier, Kalapatthar"
+        ]
+    },
+    "programs": [
+        {
+            "heading": "Everest Base Camp Heli Tour Program",
+            "days": [
+                {
+                    "heading": "Discription",
+                    "image": "/Image/other-activities/heli-tour/ebc-heli-tour-discription.jpg",
+                    "paragraph": "<p>Experience the ultimate adventure with the <b>Everest Base Camp Heli Tour</b>. Departing from <b>Kathmandu</b>, this thrilling flight offers an up-close view of <b>Mount Everest</b>, the highest peak in the world, along with stunning panoramas of the <b>Khumbu Glacier</b> and surrounding peaks. The tour includes a landing at the base camp, where you can step out and take in the breathtaking scenery. A stop at <b>Kalapatthar</b> provides the best vantage point for photography and viewing Everest. This tour is designed for those who wish to experience the Himalayas in a short time and with maximum comfort.</p>"
+                }
+            ]
+        }
+    ]
+      },
+      "tumor-river-rafting":{
+        "subhero": {
+          "title": "Everest Base Camp Heli Tour",
+          "image": "/Image/other-activities/heli-tour/ebc-heli-tour-hero.jpeg"
+      },
+      "overview": {
+          "heading": "Overview For Everest Base Camp Heli Tour",
+          "paragraph": "The <b>Everest Base Camp Heli Tour</b> offers a unique opportunity to experience the grandeur of <b>Mount Everest</b> and the surrounding peaks. This tour provides a close-up view of the world's highest mountain, along with panoramic vistas of the <b>Khumbu Glacier</b> and the majestic <b>Himalayan range</b>. Departing from <b>Kathmandu</b>, the flight takes you over picturesque villages and lush valleys before landing at the base camp, where you can soak in the awe-inspiring scenery and take memorable photographs. The return journey includes a stop at <b>Kalapatthar</b>, a vantage point that offers the best view of Everest. This tour is perfect for those who want to see Everest without the physical demands of trekking."
+      },
+      "trip-facts": {
+          "heading": "Trip Facts",
+          "facts": [
+              "<b>Flight Duration:</b> 4-5 hours",
+              "<b>Departure:</b> Kathmandu",
+              "<b>Landing Points:</b> Everest Base Camp, Kalapatthar",
+              "<b>Highlights:</b> Mount Everest, Khumbu Glacier, Kalapatthar"
+          ]
+      },
+      "programs": [
+          {
+              "heading": "Everest Base Camp Heli Tour Program",
+              "days": [
+                  {
+                      "heading": "Discription",
+                      "image": "/Image/other-activities/heli-tour/ebc-heli-tour-discription.jpg",
+                      "paragraph": "<p>Experience the ultimate adventure with the <b>Everest Base Camp Heli Tour</b>. Departing from <b>Kathmandu</b>, this thrilling flight offers an up-close view of <b>Mount Everest</b>, the highest peak in the world, along with stunning panoramas of the <b>Khumbu Glacier</b> and surrounding peaks. The tour includes a landing at the base camp, where you can step out and take in the breathtaking scenery. A stop at <b>Kalapatthar</b> provides the best vantage point for photography and viewing Everest. This tour is designed for those who wish to experience the Himalayas in a short time and with maximum comfort.</p>"
+                  }
+              ]
+          }
+      ]
+      },
+      "sabaiya-river-rafting":{
+        "subhero": {
+          "title": "Everest Base Camp Heli Tour",
+          "image": "/Image/other-activities/heli-tour/ebc-heli-tour-hero.jpeg"
+      },
+      "overview": {
+          "heading": "Overview For Everest Base Camp Heli Tour",
+          "paragraph": "The <b>Everest Base Camp Heli Tour</b> offers a unique opportunity to experience the grandeur of <b>Mount Everest</b> and the surrounding peaks. This tour provides a close-up view of the world's highest mountain, along with panoramic vistas of the <b>Khumbu Glacier</b> and the majestic <b>Himalayan range</b>. Departing from <b>Kathmandu</b>, the flight takes you over picturesque villages and lush valleys before landing at the base camp, where you can soak in the awe-inspiring scenery and take memorable photographs. The return journey includes a stop at <b>Kalapatthar</b>, a vantage point that offers the best view of Everest. This tour is perfect for those who want to see Everest without the physical demands of trekking."
+      },
+      "trip-facts": {
+          "heading": "Trip Facts",
+          "facts": [
+              "<b>Flight Duration:</b> 4-5 hours",
+              "<b>Departure:</b> Kathmandu",
+              "<b>Landing Points:</b> Everest Base Camp, Kalapatthar",
+              "<b>Highlights:</b> Mount Everest, Khumbu Glacier, Kalapatthar"
+          ]
+      },
+      "programs": [
+          {
+              "heading": "Everest Base Camp Heli Tour Program",
+              "days": [
+                  {
+                      "heading": "Discription",
+                      "image": "/Image/other-activities/heli-tour/ebc-heli-tour-discription.jpg",
+                      "paragraph": "<p>Experience the ultimate adventure with the <b>Everest Base Camp Heli Tour</b>. Departing from <b>Kathmandu</b>, this thrilling flight offers an up-close view of <b>Mount Everest</b>, the highest peak in the world, along with stunning panoramas of the <b>Khumbu Glacier</b> and surrounding peaks. The tour includes a landing at the base camp, where you can step out and take in the breathtaking scenery. A stop at <b>Kalapatthar</b> provides the best vantage point for photography and viewing Everest. This tour is designed for those who wish to experience the Himalayas in a short time and with maximum comfort.</p>"
+                  }
+              ]
+          }
+      ]
+      }
+
+},
+    "heli-tour": {
+      "url": "heli-tour",
+      "subhero": {
+          "title": "Heli Tour",
+          "image": "/Image/other-activities/heli-tour/heli-tour-hero.webp"
+      },
+      "overview": {
+          "heading": "Overview For Heli Tour",
+          "paragraph": "Discover the majestic beauty of Nepal from the skies with our exclusive <b>Heli Tours</b>. These tours offer an unparalleled perspective of some of the most iconic destinations in Nepal, from the towering peaks of the <b>Himalayas</b> to the serene valleys and cultural landmarks. Perfect for those with limited time or those seeking a unique experience, our heli tours provide a quick yet comprehensive glimpse of Nepal's natural and cultural heritage. Each tour is designed to maximize your sightseeing experience, with large windows for unobstructed views and professional commentary from experienced pilots. Whether it's a close-up view of <b>Mount Everest</b>, a serene journey to <b>Annapurna Base Camp</b>, a spiritual visit to <b>Muktinath</b>, or a scenic flight over <b>Pokhara</b>, our heli tours promise an unforgettable adventure."
+      },
+      "subotheractivities": {
+          "heading": "Heli Tours in Nepal",
+          "activities": [
+              {
+                  "name": "Everest Base Camp Heli Tour",
+                  "image": "/Image/other-activities/heli-tour/ebc-heli-tour-card.webp",
+                  "days": "01",
+                  "link": "/other-activities/heli-tour/everest-base-camp-heli-tour"
+              },
+              {
+                  "name": "Annapurna Base Camp Heli Tour",
+                  "image": "/Image/other-activities/heli-tour/abc-heli-tour-card.jpg",
+                  "days": "01",
+                  "link": "/other-activities/heli-tour/annapurna-base-camp-heli-tour"
+              },
+              {
+                  "name": "Muktinath Heli Tour",
+                  "image": "/Image/other-activities/heli-tour/muktinath-heli-tour-card.jpg",
+                  "days": "01",
+                  "link": "/other-activities/heli-tour/muktinath-heli-tour"
+              },
+              {
+                  "name": "Pokhara Sightseeing Heli Tour",
+                  "image": "/Image/other-activities/heli-tour/pokhara-heli-tour-card.jpg",
+                  "days": "01",
+                  "link": "/other-activities/heli-tour/pokhara-sightseeing-heli-tour"
+              }
+          ]
+      },
+      "everest-base-camp-heli-tour": {
+          "subhero": {
+              "title": "Everest Base Camp Heli Tour",
+              "image": "/Image/other-activities/heli-tour/ebc-heli-tour-hero.jpeg"
+          },
+          "overview": {
+              "heading": "Overview For Everest Base Camp Heli Tour",
+              "paragraph": "The <b>Everest Base Camp Heli Tour</b> offers a unique opportunity to experience the grandeur of <b>Mount Everest</b> and the surrounding peaks. This tour provides a close-up view of the world's highest mountain, along with panoramic vistas of the <b>Khumbu Glacier</b> and the majestic <b>Himalayan range</b>. Departing from <b>Kathmandu</b>, the flight takes you over picturesque villages and lush valleys before landing at the base camp, where you can soak in the awe-inspiring scenery and take memorable photographs. The return journey includes a stop at <b>Kalapatthar</b>, a vantage point that offers the best view of Everest. This tour is perfect for those who want to see Everest without the physical demands of trekking."
+          },
+          "trip-facts": {
+              "heading": "Trip Facts",
+              "facts": [
+                  "<b>Flight Duration:</b> 4-5 hours",
+                  "<b>Departure:</b> Kathmandu",
+                  "<b>Landing Points:</b> Everest Base Camp, Kalapatthar",
+                  "<b>Highlights:</b> Mount Everest, Khumbu Glacier, Kalapatthar"
+              ]
+          },
+          "programs": [
+              {
+                  "heading": "Everest Base Camp Heli Tour Program",
+                  "days": [
+                      {
+                          "heading": "Discription",
+                          "image": "/Image/other-activities/heli-tour/ebc-heli-tour-discription.jpg",
+                          "paragraph": "<p>Experience the ultimate adventure with the <b>Everest Base Camp Heli Tour</b>. Departing from <b>Kathmandu</b>, this thrilling flight offers an up-close view of <b>Mount Everest</b>, the highest peak in the world, along with stunning panoramas of the <b>Khumbu Glacier</b> and surrounding peaks. The tour includes a landing at the base camp, where you can step out and take in the breathtaking scenery. A stop at <b>Kalapatthar</b> provides the best vantage point for photography and viewing Everest. This tour is designed for those who wish to experience the Himalayas in a short time and with maximum comfort.</p>"
+                      }
+                  ]
+              }
+          ]
+      },
+      "annapurna-base-camp-heli-tour": {
+          "subhero": {
+              "title": "Annapurna Base Camp Heli Tour",
+              "image": "/Image/other-activities/heli-tour/abc-heli-tour-hero.jpg"
+          },
+          "overview": {
+              "heading": "Overview For Annapurna Base Camp Heli Tour",
+              "paragraph": "The <b>Annapurna Base Camp Heli Tour</b> offers a spectacular flight over the <b>Annapurna region</b>, known for its breathtaking landscapes and towering peaks. This tour provides a unique perspective of the <b>Annapurna massif</b>, including <b>Annapurna I</b>, <b>Machapuchare (Fishtail)</b>, and <b>Dhaulagiri</b>. Departing from <b>Pokhara</b>, the flight takes you through the heart of the Himalayas, offering unparalleled views of lush valleys, terraced fields, and quaint villages. A landing at the base camp allows you to explore the area and take stunning photographs. This tour is perfect for those who want to experience the beauty of the Annapurna region without the long trek."
+          },
+          "trip-facts": {
+              "heading": "Trip Facts",
+              "facts": [
+                  "<b>Flight Duration:</b> 2-3 hours",
+                  "<b>Departure:</b> Pokhara",
+                  "<b>Landing Point:</b> Annapurna Base Camp",
+                  "<b>Highlights:</b> Annapurna massif, Machapuchare, Dhaulagiri"
+              ]
+          },
+          "programs": [
+              {
+                  "heading": "Annapurna Base Camp Heli Tour",
+                  "days": [
+                      {
+                          "heading": "",
+                          "image": "/Image/other-activities/heli-tour/abc-heli-tour-discription.webp",
+                          "paragraph": "<p>Take a breathtaking journey over the <b>Annapurna region</b> with the <b>Annapurna Base Camp Heli Tour</b>. Starting from <b>Pokhara</b>, this flight offers stunning aerial views of the <b>Annapurna massif</b>, including <b>Annapurna I</b>, <b>Machapuchare (Fishtail)</b>, and <b>Dhaulagiri</b>. The tour includes a landing at the base camp, where you can explore and capture the stunning scenery with your camera. This heli tour is ideal for those seeking a quick yet comprehensive experience of the Annapurna region's natural beauty.</p>"
+                      }
+                  ]
+              }
+          ]
+      },
+      "muktinath-heli-tour": {
+          "subhero": {
+              "title": "Muktinath Heli Tour",
+              "image": "/Image/other-activities/heli-tour/muktinath-heli-tour-hero.webp"
+          },
+          "overview": {
+              "heading": "Overview For Muktinath Heli Tour",
+              "paragraph": "The <b>Muktinath Heli Tour</b> offers a spiritual journey to the sacred <b>Muktinath Temple</b>, located at an altitude of <b>3,710 meters</b> in the <b>Mustang district</b>. This tour provides a unique opportunity to visit one of the most important pilgrimage sites for both Hindus and Buddhists, nestled in the heart of the Himalayas. Departing from <b>Pokhara</b>, the flight takes you over the stunning landscapes of the <b>Mustang region</b>, with its unique mix of barren hills and snow-capped peaks. Upon arrival, you can explore the temple complex and enjoy the serene atmosphere before returning to Pokhara. This tour is ideal for those seeking a spiritual experience combined with the natural beauty of the Himalayas."
+          },
+          "trip-facts": {
+              "heading": "Trip Facts",
+              "facts": [
+                  "<b>Flight Duration:</b> 3-4 hours",
+                  "<b>Departure:</b> Pokhara",
+                  "<b>Landing Point:</b> Muktinath Temple",
+                  "<b>Highlights:</b> Muktinath Temple, Mustang region, Himalayan views"
+              ]
+          },
+          "programs": [
+              {
+                  "heading": "Muktinath Heli Tour",
+                  "days": [
+                      {
+                          "heading": "",
+                          "image": "/Image/other-activities/heli-tour/muktinath-heli-tour-discription.webp",
+                          "paragraph": "<p>Embark on a spiritual journey with the <b>Muktinath Heli Tour</b>. Departing from <b>Pokhara</b>, this flight offers breathtaking views of the <b>Mustang region</b> and the majestic Himalayas. The highlight of the tour is a visit to the sacred <b>Muktinath Temple</b>, situated at an altitude of <b>3,710 meters</b>. Here, you can explore the temple complex and take in the tranquil atmosphere before flying back to Pokhara. This tour is perfect for those seeking a blend of spiritual fulfillment and natural beauty.</p>"
+                      }
+                  ]
+              }
+          ]
+      },
+      "pokhara-sightseeing-heli-tour": {
+          "subhero": {
+              "title": "Pokhara Sightseeing Heli Tour",
+              "image": "/Image/other-activities/heli-tour/pokhara-heli-tour-hero.webp"
+          },
+          "overview": {
+              "heading": "Overview For Pokhara Sightseeing Heli Tour",
+              "paragraph": "The <b>Pokhara Sightseeing Heli Tour</b> offers a bird's-eye view of one of Nepal's most beautiful cities. Pokhara is known for its stunning natural beauty, with picturesque lakes, lush green valleys, and panoramic views of the <b>Annapurna range</b>. This tour takes you on a scenic flight over the city, offering views of <b>Phewa Lake</b>, <b>Begnas Lake</b>, and the surrounding hills. Departing from <b>Pokhara Airport</b>, the flight provides a unique perspective of the city's landscape, highlighting its natural and cultural landmarks. This tour is perfect for those looking to experience the beauty of Pokhara from a unique vantage point."
+          },
+          "trip-facts": {
+              "heading": "Trip Facts",
+              "facts": [
+                  "<b>Flight Duration:</b> 1 hour",
+                  "<b>Departure:</b> Pokhara Airport",
+                  "<b>Highlights:</b> Phewa Lake, Begnas Lake, Annapurna range"
+              ]
+          },
+          "programs": [
+              {
+                  "heading": "Pokhara Sightseeing Heli Tour Program",
+                  "days": [
+                      {
+                          "heading": "",
+                          "image": "/Image/other-activities/heli-tour/pokhara-heli-tour-discription.webp",
+                          "paragraph": "<p>Experience the stunning beauty of <b>Pokhara</b> with the <b>Pokhara Sightseeing Heli Tour</b>. This flight offers a unique perspective of the city's natural landscapes, including views of <b>Phewa Lake</b>, <b>Begnas Lake</b>, and the surrounding hills. Departing from <b>Pokhara Airport</b>, the tour provides a comprehensive overview of the city's scenic beauty, making it an ideal choice for those looking to explore Pokhara from above.</p>"
+                      }
+                  ]
+              }
+          ]
+      }
+  },
+    "mountain-flight": {
+      "url": "mountain-flight",
+      "subhero": {
+          "title": "Mountain Flight",
+          "image": "/Image/other-activities/mountain-flight/mountain-flight.jpg"
+      },
+      "overview": {
+          "heading": "Overview For Mountain Flight",
+          "paragraph": "Experience the breathtaking beauty of the <b>Himalayas</b> with our mountain flight tours. These flights offer stunning aerial views of some of the highest peaks in the world, including <b>Mount Everest</b>, <b>Lhotse</b>, <b>Makalu</b>, and <b>Kanchenjunga</b>. Perfect for those who want to see the Himalayas up close without the physical demands of trekking. The flights are conducted early in the morning to provide the best possible views of the snow-capped mountains as the sun rises, casting a golden glow on the towering peaks. With large, clear windows and comfortable seating, every passenger is guaranteed a <b>window seat</b>, ensuring unobstructed views of the magnificent scenery. Our experienced pilots provide informative commentary throughout the flight, pointing out the various peaks and sharing fascinating insights about the region and its significance."
+      },
+      "subotheractivities": {
+          "heading": "Popular Mountain Flight",
+          "activities": [
+              {
+                  "name": "Mountain Flight from Kathmandu",
+                  "image": "/Image/other-activities/mountain-flight/mountain-flight-from-kathmandu-card.jpg",
+                  "days": "01",
+                  "link": "/other-activities/mountain-flight/mountain-flight-from-kathmandu"
+              },
+              {
+                  "name": "Mountain Flight from Pokhara",
+                  "image": "/Image/other-activities/mountain-flight/mountain-flight-from-pokhara-card.jpeg",
+                  "days": "01",
+                  "link": "/other-activities/mountain-flight/mountain-flight-from-pokhara"
+              }
+          ]
+      },
+      "mountain-flight-from-kathmandu": {
+          "subhero": {
+              "title": "Mountain Flight From Kathmandu",
+              "image": "/Image/other-activities/mountain-flight/mountain-flight.jpg"
+          },
+          "overview": {
+              "heading": "Overview For Mountain Flight From Kathmandu",
+              "paragraph": "Departing from <b>Kathmandu</b>, this one-hour mountain flight offers an unparalleled view of the eastern Himalayas. Highlights include stunning vistas of <b>Mount Everest</b>, <b>Lhotse</b>, <b>Makalu</b>, and many other towering peaks. An ideal choice for those looking to witness the grandeur of the Himalayas in a short period. The flight takes off from <b>Tribhuvan International Airport</b> early in the morning, allowing you to witness the first rays of the sun hitting the peaks, creating a mesmerizing display of light and shadow. As you soar above the clouds, you'll have the opportunity to capture breathtaking photographs of the world's highest mountains. The experienced pilots provide live commentary, ensuring you don't miss any of the significant landmarks and peaks. This flight is perfect for those with limited time but a desire to experience the majesty of the Himalayas."
+          },
+          "trip-facts": {
+              "heading": "Trip Facts",
+              "facts": [
+                  "<b>Flight Duration:</b> 1 hour",
+                  "<b>Departure:</b> Tribhuvan International Airport, Kathmandu",
+                  "<b>Best Time:</b> All year round, weather permitting",
+                  "<b>Highlights:</b> Mount Everest, Lhotse, Makalu, Kanchenjunga"
+              ]
+          },
+          "programs": [
+              {
+                  "heading": "Mountain Flight Programs",
+                  "days": [
+                      {
+                          "heading": "Discription",
+                          "image": "/Image/other-activities/mountain-flight/mountain-flight-from-kathmandu-discription.jpg",
+                          "paragraph": "<p>Experience the breathtaking beauty of the <b>Himalayas</b> with a mountain flight from <b>Kathmandu</b>. This one-hour flight offers stunning aerial views of <b>Mount Everest</b>, the highest peak in the world, along with other majestic peaks like <b>Lhotse</b>, <b>Makalu</b>, and <b>Kanchenjunga</b>. Witness the sheer magnificence of these towering giants, an experience that will leave you spellbound. The flight provides a close-up view of the vast, glaciated faces of these mountains, showcasing their rugged beauty and grandeur. As you fly parallel to the Himalayan range, you'll also see numerous other peaks and valleys, including the sacred <b>Gauri Shankar</b> and the mysterious <b>Melungtse</b>. The flight concludes with a spectacular view of the <b>Kathmandu Valley</b>, making for a truly unforgettable experience.</p>"
+                      }
+                  ]
+              }
+          ]
+      },
+      "mountain-flight-from-pokhara": {
+          "subhero": {
+              "title": "Mountain Flight From Pokhara",
+              "image": "/Image/other-activities/mountain-flight/mountain-flight-from-pokhara-hero.jpg"
+          },
+          "overview": {
+              "heading": "Overview For Mountain Flight From Pokhara",
+              "paragraph": "From <b>Pokhara</b>, embark on a mesmerizing mountain flight that showcases the central Himalayan range. Enjoy panoramic views of <b>Annapurna</b>, <b>Dhaulagiri</b>, and the iconic <b>Machapuchare (Fishtail)</b> Mountain. This flight offers a unique perspective of the Himalayas' grandeur and beauty. Departing early in the morning from <b>Pokhara Airport</b>, the flight takes you on a journey over some of the most spectacular scenery in Nepal. As the aircraft ascends, you'll be treated to a bird's-eye view of the lush Pokhara Valley, with its beautiful lakes and terraced fields. The highlight of the flight is the close-up view of the <b>Annapurna massif</b>, which includes several of the highest peaks in the world. The distinctive fishtail shape of <b>Machapuchare</b> is particularly striking against the clear blue sky. The flight also offers views of the deep <b>Kali Gandaki Gorge</b>, one of the world's deepest, providing a dramatic contrast to the soaring peaks."
+          },
+          "trip-facts": {
+              "heading": "Trip Facts",
+              "facts": [
+                  "<b>Flight Duration:</b> 1 hour",
+                  "<b>Departure:</b> Pokhara Airport",
+                  "<b>Best Time:</b> All year round, weather permitting",
+                  "<b>Highlights:</b> Annapurna, Dhaulagiri, Machapuchare (Fishtail Mountain)"
+              ]
+          },
+          "programs": [
+              {
+                  "heading": "Mountain Flight From Pokhara",
+                  "days": [
+                      {
+                          "heading": "Discription",
+                          "image": "/Image/other-activities/mountain-flight/mountain-flight-from-pokhara-discription.jpg",
+                          "paragraph": "<p>Embark on a spectacular mountain flight from <b>Pokhara</b>, known for its close proximity to the <b>Annapurna range</b>. This flight provides an unparalleled view of <b>Annapurna I</b>, <b>Dhaulagiri</b>, and <b>Machapuchare (Fishtail Mountain)</b>, among others. Enjoy the serene beauty of the Himalayas, with views that are both awe-inspiring and unforgettable. The flight offers a unique vantage point to see the full expanse of the <b>Annapurna range</b>, including the dramatic south face of <b>Annapurna I</b>. You'll also fly over the stunning <b>Dhaulagiri range</b>, with its distinctive icefalls and glaciers. The highlight of the flight is the view of <b>Machapuchare</b>, considered one of the most beautiful mountains in the world. The return journey offers sweeping views of the lush, green valleys and rolling hills that surround Pokhara, making for a truly memorable experience.</p>"
+                      }
+                  ]
+              }
+          ]
+      }
+  }, 
+    "bungee": {
+      "bungee-jumping": {
+          "subhero": {
+              "title": "Bungee Jumping",
+              "image": "/Image/other-activities/bungee-jump/bungee-jump.jpeg"
+          },
+          "overview": {
+              "heading": "Overview For Bungee Jumping",
+              "paragraph": "Bungee Jumping in Nepal is an exhilarating experience that offers a unique combination of adventure and stunning natural beauty. One of the most famous bungee jumping sites is located at the <b>Bhotekoshi River</b>, near the Nepal-Tibet border. The jump takes place from a suspension bridge at an impressive height of <b>160 meters</b>, making it one of the highest bungee jumps in the world. As you stand on the edge, ready to leap into the abyss, you will be surrounded by the breathtaking views of the lush green forests and the roaring Bhotekoshi River below. The free fall provides an adrenaline rush like no other, and the feeling of soaring through the air is both terrifying and thrilling. The jump is conducted by highly trained and experienced professionals who ensure the highest standards of safety. The best time to experience bungee jumping in Nepal is during the <b>autumn (September to November)</b> and <b>spring (March to May)</b> seasons when the weather is clear and favorable. After the jump, you can relax and enjoy the beautiful surroundings, reflecting on the incredible adventure you just experienced."
+          },
+          "trip-facts": {
+              "heading": "Trip Facts",
+              "facts": [
+                  "<b>Jump Site:</b> Bhotekoshi River",
+                  "<b>Jump Height:</b> 160 meters",
+                  "<b>Location:</b> Near Nepal-Tibet border",
+                  "<b>Best Time:</b> Autumn (September to November) and Spring (March to May)",
+                  "<b>Accommodation:</b> Various options available nearby"
+              ]
+          },
+          "programs": [
+              {
+                  "heading": "Bungee Jumping Adventure",
+                  "days": [
+                      {
+                          "heading": "",
+                          "image": "/Image/other-activities/bungee-jump/bungee-jumping.jpg",
+                          "paragraph": "<p>Embark on an unforgettable bungee jumping adventure in Nepal at the famous <b>Bhotekoshi River</b> site. The journey begins with a scenic drive to the Nepal-Tibet border, where you will reach the jump location. After a comprehensive safety briefing, you will be harnessed and prepared for the jump. As you step onto the suspension bridge, the stunning views of the surrounding landscape will unfold before you, adding to the anticipation and excitement.</p><p>The jump from a height of <b>160 meters</b> offers a thrilling free fall, giving you a rush of adrenaline as you plummet towards the river below. The experienced instructors will guide you through every step, ensuring a safe and exhilarating experience. The feeling of weightlessness and the surge of emotions as you jump is indescribable, making it a once-in-a-lifetime adventure.</p><p>Upon completing the jump, you will have the opportunity to relax and soak in the natural beauty of the area. The bungee jumping adventure in Nepal is perfect for thrill-seekers and those looking to push their limits. Join us for this ultimate adrenaline-pumping experience that combines breathtaking views, professional safety standards, and an unforgettable free fall.</p>"
+                      }
+                  ]
+              }
+          ]
+      }
+  },
+    "para": {
+      "paragliding": {
+          "subhero": {
+              "title": "Paragliding in Nepal",
+              "image": "/Image/other-activities/paragliding/paragliding.jpg"
+          },
+          "overview": {
+              "heading": "Overview For Paragliding in Nepal",
+              "paragraph": "Paragliding in Nepal offers an unparalleled experience, combining the thrill of flight with breathtaking views of the majestic <b>Himalayas</b>. As you soar high above, you will witness the stunning scenery of <b>Pokhara</b>, the serene beauty of <b>Phewa Lake</b>, and the panoramic vistas of the <b>Annapurna range</b>. The adventure begins from the popular takeoff point at <b>Sarangkot</b>, situated at an altitude of <b>1,592 meters</b>. Here, you will be briefed by experienced pilots who will ensure your safety and comfort throughout the flight. The paraglider ride typically lasts for about <b>20 to 30 minutes</b>, depending on the weather conditions, and offers an exhilarating mix of excitement and tranquility. As you glide through the air, you will feel a sense of freedom and peace that is hard to match. Whether you are an experienced paraglider or a first-time flyer, the experience is designed to be both safe and unforgettable. The best time for paragliding in Nepal is during the <b>autumn (September to November)</b> and <b>spring (March to May)</b> seasons when the weather is stable and the skies are clear. After landing near the shores of Phewa Lake, you can relax and take in the picturesque surroundings, reflecting on the incredible journey you just experienced."
+          },
+          "trip-facts": {
+              "heading": "Trip Facts",
+              "facts": [
+                  "<b>Launch Point:</b> Sarangkot",
+                  "<b>Landing Point:</b> Near Phewa Lake",
+                  "<b>Height:</b> 1,592 meters above sea level",
+                  "<b>Duration:</b> 20 to 30 minutes",
+                  "<b>Best Time:</b> Autumn (September to November) and Spring (March to May)",
+                  "<b>Accommodation:</b> Various options available in Pokhara"
+              ]
+          },
+          "programs": [
+              {
+                  "heading": "Paragliding Adventure",
+                  "days": [
+                      {
+                          "heading": "",
+                          "image": "https://www.mountainecotreks.com/public/thumb/paragliding%20met.jpg",
+                          "paragraph": "<p>Embark on an unforgettable paragliding adventure in Nepal, starting from the scenic hilltop of <b>Sarangkot</b>. After a brief safety orientation, you will be securely harnessed and ready to take off. As you launch into the sky, the initial rush of wind and the panoramic views of the <b>Annapurna range</b> will take your breath away. The flight will take you over lush forests, traditional villages, and the serene waters of <b>Phewa Lake</b>, providing a unique perspective of the Nepalese landscape.</p><p>The experienced pilots will guide you smoothly through the air, ensuring a safe and enjoyable flight. You will have the opportunity to capture stunning aerial photographs and create memories that will last a lifetime. The paraglider ride offers a perfect blend of adrenaline and tranquility, making it suitable for both adventure enthusiasts and those seeking a peaceful escape. Upon landing near Phewa Lake, you can unwind and soak in the beauty of the surroundings, reflecting on the incredible experience you just had. Join us for a paragliding adventure in Nepal that promises excitement, breathtaking views, and an unparalleled sense of freedom.</p>"
+                      }
+                  ]
+              }
+          ]
+      }
+  },
+    "zip": {
+      "zip-flyer": {
+          "subhero": {
+              "title": "Zip Flyer",
+              "image": "/Image/other-activities/zip-flyer/zip-flyer.jpg"
+          },
+          "overview": {
+              "heading": "Overview For Zip Flyer",
+              "paragraph": "Experience the ultimate thrill with our Zip Flyer adventure. Soar through the skies and enjoy breathtaking views as you zip along one of the <b>longest and steepest zip lines</b> in the world. Perfect for adrenaline seekers, our Zip Flyer provides an exhilarating ride that combines <b>speed</b>, <b>height</b>, and stunning scenery. Starting from the scenic hilltop of <b>Sarangkot</b>, you will be securely harnessed and ready for an adventure like no other. As you take off, the panoramic views of the <b>Annapurna range</b>, lush forests, and the picturesque <b>Pokhara Valley</b> will unfold before you, creating a truly mesmerizing backdrop. The ride covers a distance of <b>1.8 kilometers</b> and reaches speeds of up to <b>120 km/h</b>, offering a heart-pounding experience that is both thrilling and awe-inspiring. The state-of-the-art safety measures ensure that you can fully immerse yourself in the adventure without any worries. The Zip Flyer is accessible <b>all year round</b>, making it a perfect activity regardless of the season. After the exhilarating ride, you will land safely at <b>Hemja</b>, where you can reflect on the unforgettable experience and explore the beautiful surroundings."
+          },
+          "trip-facts": {
+              "heading": "Trip Facts",
+              "facts": [
+                  "<b>Launch Point:</b> Sarangkot",
+                  "<b>End Point:</b> Hemja",
+                  "<b>Height:</b> 1,800 meters above sea level",
+                  "<b>Length:</b> 1.8 kilometers",
+                  "<b>Speed:</b> Up to 120 km/h",
+                  "<b>Best Time:</b> All year round",
+                  "<b>Accommodation:</b> Various options available in Pokhara"
+              ]
+          },
+          "programs": [
+              {
+                  "heading": "Zip Flyer",
+                  "days": [
+                      {
+                          "heading": "",
+                          "image": "/Image/other-activities/zip-flyer/pokhara-zip-flyer.webp",
+                          "paragraph": "<p>Get ready for an adventure of a lifetime with our Zip Flyer. Starting from <b>Sarangkot</b>, you will experience an adrenaline rush as you zip down <b>1.8 kilometers</b> at speeds of up to <b>120 km/h</b>, all while taking in panoramic views of the <b>Annapurna range</b>, lush forests, and the picturesque <b>Pokhara Valley</b>. The adventure ends at <b>Hemja</b>, where you can relax and recount the thrill of the ride. The journey begins with a brief orientation and safety briefing at Sarangkot. Here, you will be fitted with a secure harness and receive instructions from our experienced guides. As you launch from the hilltop, the initial drop will take your breath away, and the subsequent glide will offer a smooth yet exhilarating ride. The views from the Zip Flyer are unparalleled, providing a unique perspective of the Himalayan landscape.</p><p>The Zip Flyer experience is designed to cater to both adventure enthusiasts and first-time thrill-seekers. The state-of-the-art equipment and stringent safety protocols ensure a secure and enjoyable ride. Once you land at Hemja, you will have the opportunity to explore the local area, interact with fellow adventurers, and share your experience. This activity not only promises an adrenaline-packed adventure but also allows you to connect with nature in a profound way. Join us for an unforgettable Zip Flyer ride that will leave you with memories to last a lifetime!</p>"
+                      }
+                  ]
+              }
+          ]
+      }
+  },
+    "bird": {
+        "bird-watching": {
+          "subhero": {
+            "title": "Bird Watching",
+            "image": "/Image/other-activities/bird-watching/bird.jpg"
+          },
+          "overview": {
+            "heading": "Overview For Bird Watching",
+            "paragraph": "Embark on an enriching journey of birdwatching across Nepal, a paradise for avian enthusiasts. Nepal's diverse landscapes, from lush forests to high-altitude meadows, provide habitats for a staggering array of bird species. Explore serene lakesides, verdant national parks, and picturesque valleys to spot iconic Himalayan birds such as <b>Himalayan Monal</b>, <b>Lammergeier</b>, <b>Sarus Crane</b>, and <b>Rufous-necked Hornbill</b>. Whether you're a novice or seasoned birder, Nepal promises unforgettable encounters with its rich avifauna amidst breathtaking natural beauty."
+          },
+          "trip-facts": {
+            "heading": "Trip Facts",
+            "facts": [
+              "<b>Source of the river:</b> Langtang and Ganesh Himalayan range",
+              "<b>Put in point:</b> Baireni or Charaundi or Fishing <i>(Depending on Season & Rafting Days)</i>",
+              "<b>Ending point:</b> Kuringhat or Cable Car, Mugling <i>(Depending on Season & Rafting Days)</i>",
+              "<b>Way to reach the raft point:</b> By Road <i>(Tourist Bus/Private Vehicle) </i>",
+              "<b>River grade:</b> 3 Class ",
+              "<b>Best Time:</b> Mid-Feb to June, Sept to Dec",
+              "<b>Accommodation:</b> Tented Camp"
+            ]
+          },
+          "programs": [
+            {
+              "heading": "Kathmandu Phulchoki",
+              "days": [
+                {
+                  "heading": "",
+                  "image": "/Image/other-activities/bird-watching/kathmandu-phulchoki-bird-watching.jpg",
+                  "paragraph": "<p>Located south of Kathmandu Valley, <b>Phulchoki Hill</b> is renowned for its diverse bird species. Spot majestic birds such as <b>Himalayan Monal</b>, <b>Rufous Sibia</b>, and <b>Chestnut-headed Tesia</b> amidst pristine forests and panoramic views of the valley. This destination offers a perfect blend of natural beauty and avian diversity, making it a haven for birdwatchers.</p>"
+                }
+              ]
+            },
+            {
+              "heading": "Koshi Tappu Wildlife Reserve",
+              "days": [
+                {
+                  "heading": "",
+                  "image": "/Image/other-activities/bird-watching/koshi-tappu-bird-watching.jpg",
+                  "paragraph": "<p>Explore <b>Koshi Tappu Wildlife Reserve</b> in eastern Nepal, a paradise for bird enthusiasts. Home to over 485 bird species, including rare waterfowl and migratory birds like <b>Bengal Florican</b>, <b>Lesser Adjutant</b>, and <b>Black-necked Stork</b>. Enjoy guided walks along riverbanks and boat rides on the Koshi River, offering prime opportunities to observe diverse birdlife amidst serene wetlands and lush habitats.</p>"
+                }
+              ]
+            },
+            {
+              "heading": "Annapurna Conservation Area",
+              "days": [
+                {
+                  "heading": "",
+                  "image": "/Image/other-activities/bird-watching/annapurna-conservation-area-bird-watching.jpg",
+                  "paragraph": "<p>Discover the avian wonders of <b>Annapurna Conservation Area</b>, home to Himalayan birds like <b>Himalayan Griffon</b>, <b>Lammergeier</b>, and <b>Snow Pigeon</b>. Explore diverse habitats from lush forests to alpine meadows, offering unmatched birdwatching experiences against the backdrop of snow-capped peaks. Guided nature walks and cultural encounters with local communities enrich your birding adventure in this UNESCO World Heritage site.</p>"
+                }
+              ]
+            },
+            {
+              "heading": "Chitwan National Park",
+              "days": [
+                {
+                  "heading": "",
+                  "image": "/Image/other-activities/bird-watching/chitwan-national-park-bird-watching.jpg",
+                  "paragraph": "<p>Visit <b>Chitwan National Park</b>, a UNESCO World Heritage site renowned for its diverse birdlife. Spot over 500 bird species, including endangered <b>Bengal Florican</b> and <b>Sarus Crane</b>. Enjoy jeep safaris, canoe rides, and cultural tours in the Tharu community, enhancing your birdwatching experience amidst dense forests and tranquil wetlands. The park's rich biodiversity and expert guides ensure a rewarding birding expedition in Nepal.</p>"
+                }
+              ]
+            },
+            {
+              "heading": "Bardia National Park",
+              "days": [
+                {
+                  "heading": "",
+                  "image": "/Image/other-activities/bird-watching/bardiya-national-park-bird-watching.jpg",
+                  "paragraph": "<p>Experience birdwatching in <b>Bardia National Park</b>, western Nepal's wilderness sanctuary. Discover over 400 bird species, including endangered <b>White-rumped Vulture</b> and <b>Bengal Florican</b>. Enjoy jeep safaris, nature walks, and boat rides on the Karnali River, offering close encounters with diverse avian species amidst pristine riverine forests and grasslands.</p>"
+                }
+              ]
+            },
+            {
+              "heading": "Pokhara",
+              "days": [
+                {
+                  "heading": "",
+                  "image": "/Image/other-activities/bird-watching/pokhara-bird-watching.jpg",
+                  "paragraph": "<p>Explore <b>Pokhara</b>, nestled amidst the Annapurna Himalayas, a serene destination for birdwatching. Walk along Phewa Lake or hike nearby hills to spot birds like <b>Bar-headed Goose</b> and <b>Ruddy Shelduck</b> against the backdrop of majestic peaks. Enjoy panoramic views and tranquil environments, making Pokhara an idyllic retreat for bird enthusiasts seeking peaceful birding experiences.</p>"
+                }
+              ]
+            },
+            {
+              "heading": "Shivapuri and Nagarjuna National Park",
+              "days": [
+                {
+                  "heading": "",
+                  "image": "/Image/other-activities/bird-watching/sivapuri-bird-watching.jpeg",
+                  "paragraph": "<p>Discover <b>Shivapuri and Nagarjuna National Park</b> near Kathmandu, offering exceptional birdwatching amidst pristine forests and elevated viewpoints. Hike through tranquil trails to spot a variety of bird species such as <b>Himalayan Monal</b> and <b>Kalij Pheasant</b>. Enjoy panoramic views of Kathmandu Valley while immersing yourself in the rich avian diversity of this protected area, easily accessible for day trips or extended birding adventures.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      }
+
+}

@@ -1,0 +1,26 @@
+.button {
+    background-color: var(--primary-color);
+    color: white;
+    height: 50px;
+    width: 110px;
+    border: none;
+    border-radius: 5px;
+    /* padding: 5px; */
+/* display: flex;
+justify-content: center;
+align-items: center; */
+    font-size: 16px;
+    cursor: pointer;
+    .link{
+        color: white;
+        width: 100%;
+        text-decoration: none;
+        height: 100%;
+        /* background-color: green; */
+    }
+    
+  }
+  
+  .button:hover {
+    background-color: var(--secondary-color);
+  }

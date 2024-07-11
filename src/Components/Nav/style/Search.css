@@ -1,0 +1,51 @@
+input{
+    height: 40px;
+    width: 400px;
+    font-size: 20px;
+    padding-left: 10px;
+}
+.search{
+  position: relative;
+  .search-icon{
+    position: absolute;
+  /* margin-left: 20px;
+  font-size: 20px; */
+  right: 5px;
+    font-size: 40px;
+    top: 0px;
+    z-index: 2;
+    color: var(--primary-color);
+
+
+  }
+  .all-trek{
+    position: absolute;
+    top: 45px;
+    background-color: #00000087;
+    width: 100%;
+    .link{
+      text-decoration: none;
+      .div{
+        color: white;
+        cursor: pointer;
+        padding: 2.5%;
+        font-size: 18px;
+
+        
+        width: 95%;
+
+      
+     &:hover{
+      background-color: var(--secondary-color);
+     } 
+    }
+    }
+    
+  }
+}
+
+@media only screen and (max-width: 768px) {
+    input{
+      width: 300px;
+    }
+  }

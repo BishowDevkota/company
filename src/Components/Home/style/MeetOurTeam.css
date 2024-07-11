@@ -1,0 +1,53 @@
+.meet-our-team{
+    height: 100vh;
+    width: 111.12%;
+    position: relative;
+    left: -5.56%;
+    padding: 10px 0px 10px 0px;
+    background-color: red;
+    /* height: 100vh; */
+    background-image: url("https://bigskytreks.weebly.com/uploads/2/0/6/3/20638024/gokyo-lake-trek-1-2_orig.jpg");
+    background-size: cover;
+    /* position: relative; */
+    margin-top: 60px;
+    .content{
+        position: absolute;
+        height: 300px;
+        width: 600px;
+        background: linear-gradient(to bottom, rgba(50, 48, 48, 0.5), rgba(50, 48, 48, 0.5));
+        left: 35%;
+        top: 5%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        padding: 30px;
+        gap: 20px;
+        color: white;
+
+        p{
+            font-size: 18px;
+            text-align: justify;
+            line-height: 25px;
+        }
+    
+
+    }
+}
+@media only screen and (max-width: 768px) {
+    .meet-our-team{ 
+
+
+        .content{
+            left: 2%;
+            width: 80%; 
+            top: 10%;
+            background-color: rgba(0, 0, 0, 0.6);
+            height: 70vh;
+            justify-content: center;
+
+        }
+
+    }
+
+}

@@ -1,0 +1,16 @@
+.about-bst{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+@media only screen and (max-width: 768px) {
+    .about-bst{
+        flex-direction: column;
+        gap: 0px;
+    }
+
+}
+

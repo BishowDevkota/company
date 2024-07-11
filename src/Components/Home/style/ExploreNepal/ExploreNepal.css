@@ -1,0 +1,60 @@
+.explore-nepal{
+    background-color: var(--light-grey);
+    padding-bottom: 50px;
+
+position: relative;
+    .head{
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        /* gap: -10px; */
+        p{
+            font-family: cursive;
+            font-size: 20px;
+        }
+        h1{
+            font-size: 50px;
+            width: 100%;
+            position: absolute;
+            top: 10px;
+            text-align: center;
+            color: var(--primary-color);
+        }
+        p{
+            color: var(--secondary-color);
+        }
+    }
+    .explore-nepal-cards{
+        position: relative;
+        width: 80%;
+        left: 10%;
+        /* background-color:var(--primary-color);
+        padding: 10px; */
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        .row{
+            display: flex;
+            gap: 10px;
+        }}
+}
+
+@media only screen and (max-width: 768px) {
+    .explore-nepal{
+.explore-nepal-cards{
+    width: 95%;
+    left: 2.5%;
+
+.row{
+    display: flex;
+    flex-direction: column;
+    .background{
+        
+        width: 100% !important;
+    }
+}
+
+}
+    }
+}

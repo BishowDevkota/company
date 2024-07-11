@@ -1,0 +1,52 @@
+
+
+
+
+.background{
+    position: relative;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+    .place{
+        position: absolute;
+        left: 10px;
+        font-size: 15px;
+        bottom: 5px;
+        color: var(--light-grey);
+        /* border-bottom: 3px solid var(--primary-color); */
+
+    }
+    .card-discription{
+        position: absolute;
+        height: calc(100% - 20px);
+        width: calc(100% - 20px);
+        /* background-color: red; */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        gap: 20px;
+        color: white;
+        text-align: center;
+        padding: 10px;
+        opacity: 0;
+        background-color: rgba(52, 58, 64, 0.7);
+        .how-many-places{
+            font-size: 20px;
+        }
+
+        &:hover{
+            opacity: 1;
+            transition: 0.5s;
+        }
+
+    }
+    &:hover{
+        scale: 0.95;
+        transition: 0.5s;
+    }
+
+
+}
+

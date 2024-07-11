@@ -1,0 +1,27 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /index.html [L]
+</IfModule>
+
+
+if you want to make slider hero:
+import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
+import { Carousel } from 'react-responsive-carousel';
+
+<Carousel>
+      {BestSellingTripsData.trips.map((trip, index) => {
+            return (
+              <Cards
+                key={index}
+                link={trip.link}
+                image={trip.image}
+                name={trip.name}
+                days={trip.days}
+              />
+            )
+      })}
+      </Carousel>

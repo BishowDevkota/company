@@ -1,0 +1,236 @@
+
+
+
+
+.about-company{
+    .about-company-heading{
+        h1{
+            /* background-color: red; */
+            text-align: center;
+        }
+    }
+    .company-name{
+        h1{
+            position: relative;
+            text-align: center;
+            top: 400px;
+        }
+    }
+overflow: hidden;
+.relative{
+    position: relative;
+    height: 500px;
+
+
+}
+.hover-card-image{
+    position: absolute;
+    top: 6%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+
+}
+
+.image-5 , .big-image{
+    background-image: url("https://images.unsplash.com/photo-1414609245224-afa02bfb3fda?fm=jpg&w=3000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTJ8fHxlbnwwfHx8fHw%3D");
+    height: 256.8px;
+    width: 192.6px;
+    position: absolute;
+    top: 60px;
+    left: 250px; 
+    transform: rotate(1deg);
+    border-radius: 10px;
+    background-size: 100% 100%;
+    box-shadow:10px 10px 8px var(--dark-grey);
+}
+.image-6{
+    left: 260px;
+    background-image: url("https://ayruu.com/wp-content/uploads/2022/04/Business-Travel-Manager.png");
+    transform:rotate(2deg);
+}
+.image-7{
+    left: 270px;
+    background-color: blue;
+    transform: rotate(5deg);
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/017/133/048/small_2x/flat-design-travel-video-cover-template-vector.jpg");
+
+}
+.image-8{
+    left: 270px;
+    background-color: green;
+    transform: rotate(7deg);
+    background-image: url("https://marketplace.canva.com/EAGD3mcVfFM/1/0/1600w/canva-blue-and-orange-modern-style-travel-agency-business-card-1R4uX9k3Lck.jpg");
+}
+
+
+.image-1{
+    height: 57.78px;
+    width: 57.78px;
+    left: 300px;
+    top: 100px;
+}
+.image-2{
+    height: 57.78px;
+    width: 57.78px;
+    left: 300px;
+    top: 100px;
+}
+.image-3{
+    height: 57.78px;
+    width: 57.78px;
+    left: 300px;
+    top: 100px;
+}
+.image-4{
+    height: 57.78px;
+    width: 57.78px;
+    left: 300px;
+    top: 100px;
+}
+
+
+
+.hover-card-image:hover>.big-image:nth-child(5){
+    transform: translate(-75% ,16%) rotate(-24deg);
+    transition: 1s;
+    
+}
+.hover-card-image:hover>.big-image:nth-child(6){
+    transform: translate(-25% ,8%) rotate(-8deg) ;
+    transition: 1s;
+}
+.hover-card-image:hover>.big-image:nth-child(7){
+    transform: translate(25% ,8%) rotate(8deg);
+    transition: 1s;
+}
+.hover-card-image:hover>.big-image:nth-child(8){
+    transform: translate(75% ,16%) rotate(24deg);
+    transition: 1s;
+}
+
+
+
+.hover-card-image:hover>.big-image:nth-child(1){
+    transform: translate(0% ,-150%) rotate(-5deg);
+    transition: 1s;
+}
+.hover-card-image:hover>.big-image:nth-child(2){
+    transform: translate(-300% ,-150%) rotate(10deg);
+    transition: 1s;
+}
+
+.hover-card-image:hover>.big-image:nth-child(3){
+    transform: translate(600% ,130%) rotate(-50deg);
+    transition: 1s;
+}
+.hover-card-image:hover>.big-image:nth-child(4){
+    transform: translate(300% ,-150%) rotate(90deg);
+    transition: 1s;
+}
+
+}
+.hover-card-image:hover>.about-company.company-name h1{
+    display: none;
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+    .about-company{
+        .hover-card-image{
+            position: absolute;
+            top: 15%;
+            left: -36%;
+            transform: translate(-50%, -50%);
+        
+        }
+
+    .hover-card-image:hover>.big-image:nth-child(5){
+        transform: translate(-25% ,-26%) rotate(-15deg);
+        transition: 1s;
+        
+    }
+    .hover-card-image:hover>.big-image:nth-child(6){
+        transform: translate(-15% ,-20%) rotate(0deg) ;
+        transition: 1s;
+    }
+    .hover-card-image:hover>.big-image:nth-child(7){
+        transform: translate(-5% ,5%) rotate(18deg);
+        transition: 1s;
+        display: none;
+    }
+    .hover-card-image:hover>.big-image:nth-child(8){
+
+        transform: translate(-5% ,-8%) rotate(18deg);
+        transition: 1s;
+    }
+    
+    
+    
+    .hover-card-image:hover>.big-image:nth-child(1){
+        transform: translate(50% ,-320%) rotate(10deg);
+        transition: 1s;
+        background-color: purple;
+    }
+    .hover-card-image:hover>.big-image:nth-child(2){
+        transform: translate(-100% ,-300%) rotate(-50deg);
+        transition: 1s;
+    }
+    
+    .hover-card-image:hover>.big-image:nth-child(3){
+        transform: translate(600% ,130%) rotate(10deg);
+        transition: 1s;
+        display: none;
+    }
+    .hover-card-image:hover>.big-image:nth-child(4){
+        transform: translate(200% ,-250%) rotate(50deg);
+        transition: 1s;
+        background-color: green;
+    }
+}
+}
+
+
+@media only screen and (max-width: 551px) {
+.about-company{
+    .hover-card-image{
+        position: absolute;
+        top: 15%;
+        left: -30%;
+        transform: translate(-50%, -50%);
+    
+    }
+}
+}
+@media only screen and (max-width: 441px) {
+    .about-company{
+        .hover-card-image{
+            position: absolute;
+            top: 15%;
+            left: -36%;
+            transform: translate(-50%, -50%);
+        
+        }
+    }
+    }
+
+    @media only screen and (max-width: 376px) {
+        .about-company{
+            .hover-card-image{
+                position: absolute;
+                top: 15%;
+                left: -45%;
+                transform: translate(-50%, -50%);
+            
+            }
+        }
+        }
+
+
+
+
+
+
+
+

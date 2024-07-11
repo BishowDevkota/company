@@ -1,0 +1,27 @@
+.why-big-sky-treks{
+    width: 111.12%;
+    position: relative;
+    left: -5.56%;
+    padding: 10px 0px 10px 0px;
+    background-color: #d2eaff;
+    .left{
+        position: relative;
+        left: 5%;
+        width: 90%;
+        /* background-color: red; */
+    }
+    .quotes{
+        text-align: center;
+        font-size: 30px;
+        color: var(--primary-color);
+        /* font-family: cursive; */
+    }
+    .cards-wrapper{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        align-items: center;
+        justify-content: center;
+    }
+
+}
