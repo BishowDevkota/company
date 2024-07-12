@@ -17,7 +17,6 @@ const Template = () => {
 
   const params = useParams();
   const URRL = Trekking[params.id]?.url;
-  
   const [showSidenav, setShowSideNav] = useState(false);
   useEffect(() => {
     const handleScroll = () => {
@@ -27,6 +26,10 @@ if(window.scrollY>=450) {
 }else{
   setShowSideNav(false);
   setShowMobileMenuIcon(false);
+  setShowMobileSideNav(false)
+
+
+  
 }
     };
 
@@ -40,6 +43,7 @@ const[showMobileSidenav, setShowMobileSideNav]=useState(false);
 const [showMobileMenuIcon, setShowMobileMenuIcon]=useState(false);
 const ToggleShowHideSideNav=()=>{
   setShowMobileSideNav(!showMobileSidenav)
+  console.log(showMobileSidenav)
 }
 
 
@@ -75,11 +79,15 @@ const ToggleShowHideSideNav=()=>{
 
             <div className="trekking-tempelate-side-nav-mobile side-nav-mobile">
               {showMobileMenuIcon && <div className="ham-burger-cross">
-                {showMobileSidenav ? (
-                  <RxCross1 onClick={ToggleShowHideSideNav}/>
+                {showMobileSidenav ? (<>
+                  <div className="sub-sub-menu"  onClick={ToggleShowHideSideNav} >
+                    <RxCross1/>
+                  </div>
+                  </>
                   
-                ):(
-                  <GiHamburgerMenu onClick={ToggleShowHideSideNav} />
+                ):(<>
+                <div className="sub-sub-menu"onClick={ToggleShowHideSideNav}><GiHamburgerMenu /></div>
+                  </>
                 )}
               </div>}
               {showMobileSidenav && (
